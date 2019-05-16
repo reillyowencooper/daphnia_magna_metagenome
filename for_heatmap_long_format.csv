@@ -1,0 +1,830 @@
+﻿2-oxocarboxylic acid metabolism,Limnohabitans sp. 1,20,0.011312217,Global metabolism,Metabolism
+ABC transporters,Limnohabitans sp. 1,83,0.046945701,Membrane transport,Environmental information processing
+Acarbose and validamycin biosynthesis,Limnohabitans sp. 1,2,0.001131222,Biosynthesis of other secondary metabolities,Metabolism
+"Alanine, aspartate and glutamate metabolism",Limnohabitans sp. 1,17,0.009615385,Amino acid metabolism,Metabolism
+alpha-Linolenic acid metabolism,Limnohabitans sp. 1,0,0,Lipid metabolism,Metabolism
+Amino sugar and nucleotide sugar metabolism,Limnohabitans sp. 1,22,0.012443439,Carbohydrate metabolism,Metabolism
+Aminoacyl-tRNA biosynthesis,Limnohabitans sp. 1,18,0.010180995,Translation,Genetic information processing
+Aminobenzoate degradation,Limnohabitans sp. 1,10,0.005656109,Xenobiotics biodegradation and metabolism,Metabolism
+AMPK signaling pathway,Limnohabitans sp. 1,4,0.002262443,Signal transduction,Environmental information processing
+Antifolate resistance,Limnohabitans sp. 1,5,0.002828054,Drug resistance,Human diseases
+Arachidonic acid metabolism,Limnohabitans sp. 1,1,0.000565611,Lipid metabolism,Metabolism
+Arginine and proline metabolism,Limnohabitans sp. 1,11,0.006221719,Amino acid metabolism,Metabolism
+Arginine biosynthesis,Limnohabitans sp. 1,14,0.007918552,Amino acid metabolism,Metabolism
+Ascorbate and aldarate metabolism,Limnohabitans sp. 1,5,0.002828054,Carbohydrate metabolism,Metabolism
+Atrazine degradation,Limnohabitans sp. 1,3,0.001696833,Xenobiotics biodegradation and metabolism,Metabolism
+Bacterial chemotaxis,Limnohabitans sp. 1,10,0.005656109,Cell motility,Cellular processes
+Bacterial secretion system,Limnohabitans sp. 1,19,0.010746606,Membrane transport,Environmental information processing
+Base excision repair,Limnohabitans sp. 1,10,0.005656109,Replication and repair,Genetic information processing
+Benzoate degradation,Limnohabitans sp. 1,18,0.010180995,Xenobiotics biodegradation and metabolism,Metabolism
+beta-Alanine metabolism,Limnohabitans sp. 1,7,0.003959276,Amino acid metabolism,Metabolism
+beta-Lactam resistance,Limnohabitans sp. 1,9,0.005090498,Drug resistance,Human diseases
+Biofilm formation - Escherichia coli,Limnohabitans sp. 1,7,0.003959276,Cellular community,Cellular processes
+Biofilm formation - Pseudomonas aeruginosa,Limnohabitans sp. 1,6,0.003393665,Cellular community,Cellular processes
+Biofilm formation - Vibrio cholerae,Limnohabitans sp. 1,20,0.011312217,Cellular community,Cellular processes
+Biosynthesis of amino acids,Limnohabitans sp. 1,86,0.048642534,Global metabolism,Metabolism
+Biosynthesis of ansamycins,Limnohabitans sp. 1,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of antibiotics,Limnohabitans sp. 1,145,0.082013575,Global metabolism,Metabolism
+Biosynthesis of type II polyketide products,Limnohabitans sp. 1,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of unsaturated fatty acids,Limnohabitans sp. 1,3,0.001696833,Lipid metabolism,Metabolism
+Biosynthesis of vancomycin group antibiotics,Limnohabitans sp. 1,2,0.001131222,Metabolism of terpenoids and polyketides,Metabolism
+Biotin metabolism,Limnohabitans sp. 1,6,0.003393665,Metabolism of cofactors and vitamins,Metabolism
+Butanoate metabolism,Limnohabitans sp. 1,20,0.011312217,Carbohydrate metabolism,Metabolism
+C5-Branched dibasic acid metabolism,Limnohabitans sp. 1,6,0.003393665,Carbohydrate metabolism,Metabolism
+Caprolactam degradation,Limnohabitans sp. 1,4,0.002262443,Xenobiotics biodegradation and metabolism,Metabolism
+Carbapenem biosynthesis,Limnohabitans sp. 1,2,0.001131222,Biosynthesis of other secondary metabolities,Metabolism
+Carbohydrate digestion and absorption,Limnohabitans sp. 1,0,0,Digestive system,Organismal systems
+Carbon fixation in photosynthetic organisms,Limnohabitans sp. 1,9,0.005090498,Energy metabolism,Metabolism
+Carbon fixation pathways in prokaryotes,Limnohabitans sp. 1,16,0.009049774,Energy metabolism,Metabolism
+Carbon metabolism,Limnohabitans sp. 1,70,0.03959276,Global metabolism,Metabolism
+Carotenoid biosynthesis,Limnohabitans sp. 1,5,0.002828054,Metabolism of terpenoids and polyketides,Metabolism
+Cationic antimicrobial peptide (CAMP) resistance,Limnohabitans sp. 1,9,0.005090498,Drug resistance,Human diseases
+Cell cycle - Caulobacter,Limnohabitans sp. 1,7,0.003959276,Cell growth and death,Cellular processes
+Chloroalkane and chloroalkene degradation,Limnohabitans sp. 1,4,0.002262443,Xenobiotics biodegradation and metabolism,Metabolism
+Chlorocyclohexane and chlorobenzene degradation,Limnohabitans sp. 1,4,0.002262443,Xenobiotics biodegradation and metabolism,Metabolism
+Cholesterol metabolism,Limnohabitans sp. 1,1,0.000565611,Digestive system,Organismal systems
+Citrate cycle (TCA cycle),Limnohabitans sp. 1,16,0.009049774,Carbohydrate metabolism,Metabolism
+Cyanoamino acid metabolism,Limnohabitans sp. 1,3,0.001696833,Amino acid metabolism,Metabolism
+Cysteine and methionine metabolism,Limnohabitans sp. 1,23,0.01300905,Amino acid metabolism,Metabolism
+D-Alanine metabolism,Limnohabitans sp. 1,1,0.000565611,Amino acid metabolism,Metabolism
+D-Glutamine and D-glutamate metabolism,Limnohabitans sp. 1,2,0.001131222,Amino acid metabolism,Metabolism
+Degradation of aromatic compounds,Limnohabitans sp. 1,12,0.00678733,Global metabolism,Metabolism
+Dioxin degradation,Limnohabitans sp. 1,2,0.001131222,Xenobiotics biodegradation and metabolism,Metabolism
+DNA replication,Limnohabitans sp. 1,12,0.00678733,Replication and repair,Genetic information processing
+Drug metabolism - cytochrome P450,Limnohabitans sp. 1,1,0.000565611,Xenobiotics biodegradation and metabolism,Metabolism
+Drug metabolism - other enzymes,Limnohabitans sp. 1,9,0.005090498,Xenobiotics biodegradation and metabolism,Metabolism
+Ether lipid metabolism,Limnohabitans sp. 1,0,0,Lipid metabolism,Metabolism
+Ethylbenzene degradation,Limnohabitans sp. 1,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Fatty acid biosynthesis,Limnohabitans sp. 1,10,0.005656109,Lipid metabolism,Metabolism
+Fatty acid degradation,Limnohabitans sp. 1,8,0.004524887,Lipid metabolism,Metabolism
+Fatty acid metabolism,Limnohabitans sp. 1,15,0.008484163,Lipid metabolism,Metabolism
+Ferroptosis,Limnohabitans sp. 1,1,0.000565611,Cell growth and death,Cellular processes
+Flagellar assembly,Limnohabitans sp. 1,27,0.015271493,Cell motility,Cellular processes
+Fluorobenzoate degradation,Limnohabitans sp. 1,3,0.001696833,Xenobiotics biodegradation and metabolism,Metabolism
+Folate biosynthesis,Limnohabitans sp. 1,16,0.009049774,Metabolism of cofactors and vitamins,Metabolism
+Fructose and mannose metabolism,Limnohabitans sp. 1,10,0.005656109,Carbohydrate metabolism,Metabolism
+Galactose metabolism,Limnohabitans sp. 1,7,0.003959276,Carbohydrate metabolism,Metabolism
+Geraniol degradation,Limnohabitans sp. 1,7,0.003959276,Metabolism of terpenoids and polyketides,Metabolism
+Glucosinolate biosynthesis,Limnohabitans sp. 1,1,0.000565611,Biosynthesis of other secondary metabolities,Metabolism
+Glutathione metabolism,Limnohabitans sp. 1,13,0.007352941,Amino acid metabolism,Metabolism
+Glycerolipid metabolism,Limnohabitans sp. 1,7,0.003959276,Lipid metabolism,Metabolism
+Glycerophospholipid metabolism,Limnohabitans sp. 1,12,0.00678733,Lipid metabolism,Metabolism
+"Glycine, serine and threonine metabolism",Limnohabitans sp. 1,24,0.013574661,Amino acid metabolism,Metabolism
+Glycolysis/Gluconeogenesis,Limnohabitans sp. 1,16,0.009049774,Carbohydrate metabolism,Metabolism
+Glycosaminoglycan degradation,Limnohabitans sp. 1,1,0.000565611,Glycan biosynthesis and metabolism,Metabolism
+Glyoxylate and dicarboxylate metabolism,Limnohabitans sp. 1,34,0.019230769,Carbohydrate metabolism,Metabolism
+Histidine metabolism,Limnohabitans sp. 1,16,0.009049774,Amino acid metabolism,Metabolism
+Homologous recombination,Limnohabitans sp. 1,19,0.010746606,Replication and repair,Genetic information processing
+Inositol phosphate metabolism,Limnohabitans sp. 1,3,0.001696833,Carbohydrate metabolism,Metabolism
+Isoquinoline alkaloid biosynthesis,Limnohabitans sp. 1,1,0.000565611,Biosynthesis of other secondary metabolities,Metabolism
+Limonene and pinene degradation,Limnohabitans sp. 1,2,0.001131222,Metabolism of terpenoids and polyketides,Metabolism
+Linoleic acid metabolism,Limnohabitans sp. 1,0,0,Lipid metabolism,Metabolism
+Lipoic acid metabolism,Limnohabitans sp. 1,1,0.000565611,Metabolism of cofactors and vitamins,Metabolism
+Lipopolysaccharide biosynthesis,Limnohabitans sp. 1,15,0.008484163,Glycan biosynthesis and metabolism,Metabolism
+Lysine biosynthesis,Limnohabitans sp. 1,13,0.007352941,Amino acid metabolism,Metabolism
+Lysine degradation,Limnohabitans sp. 1,7,0.003959276,Amino acid metabolism,Metabolism
+Metabolism of xenobiotics by cytochrome P450,Limnohabitans sp. 1,1,0.000565611,Xenobiotics biodegradation and metabolism,Metabolism
+Methane metabolism,Limnohabitans sp. 1,18,0.010180995,Energy metabolism,Metabolism
+Mineral absorption,Limnohabitans sp. 1,0,0,Digestive system,Organismal systems
+Mismatch repair,Limnohabitans sp. 1,14,0.007918552,Replication and repair,Genetic information processing
+Monobactam biosynthesis,Limnohabitans sp. 1,7,0.003959276,Biosynthesis of other secondary metabolities,Metabolism
+Naphthalene degradation,Limnohabitans sp. 1,1,0.000565611,Xenobiotics biodegradation and metabolism,Metabolism
+N-Glycan biosynthesis,Limnohabitans sp. 1,0,0,Glycan biosynthesis and metabolism,Metabolism
+"Neomycin, kanamycin and gentamicin biosynthesis",Limnohabitans sp. 1,1,0.000565611,Biosynthesis of other secondary metabolities,Metabolism
+Nicotinate and nicotinamide metabolism,Limnohabitans sp. 1,9,0.005090498,Metabolism of cofactors and vitamins,Metabolism
+Nitrogen metabolism,Limnohabitans sp. 1,9,0.005090498,Energy metabolism,Metabolism
+Nitrotoluene degradation,Limnohabitans sp. 1,1,0.000565611,Xenobiotics biodegradation and metabolism,Metabolism
+Nonribosomal peptide structures,Limnohabitans sp. 1,1,0.000565611,Metabolism of terpenoids and polyketides,Metabolism
+Novobiocin biosynthesis,Limnohabitans sp. 1,3,0.001696833,Biosynthesis of other secondary metabolities,Metabolism
+Nucleotide excision repair,Limnohabitans sp. 1,6,0.003393665,Replication and repair,Genetic information processing
+One carbon pool by folate,Limnohabitans sp. 1,12,0.00678733,Metabolism of cofactors and vitamins,Metabolism
+Other glycan degradation,Limnohabitans sp. 1,0,0,Glycan biosynthesis and metabolism,Metabolism
+Oxidative phosphorylation,Limnohabitans sp. 1,30,0.016968326,Energy metabolism,Metabolism
+Pantothenate and CoA biosynthesis,Limnohabitans sp. 1,12,0.00678733,Metabolism of cofactors and vitamins,Metabolism
+Penicillin and cephalosporin biosynthesis,Limnohabitans sp. 1,2,0.001131222,Biosynthesis of other secondary metabolities,Metabolism
+Pentose and glucuronate interconversions,Limnohabitans sp. 1,9,0.005090498,Carbohydrate metabolism,Metabolism
+Pentose phosphate pathway,Limnohabitans sp. 1,19,0.010746606,Carbohydrate metabolism,Metabolism
+Peptidoglycan biosynthesis,Limnohabitans sp. 1,14,0.007918552,Glycan biosynthesis and metabolism,Metabolism
+Peroxisome,Limnohabitans sp. 1,6,0.003393665,Transport and catabolism,Cellular processes
+Phenazine biosynthesis,Limnohabitans sp. 1,2,0.001131222,Biosynthesis of other secondary metabolities,Metabolism
+Phenylalanine metabolism,Limnohabitans sp. 1,19,0.010746606,Amino acid metabolism,Metabolism
+"Phenylalanine, tyrosine and tryptophan biosynthesis",Limnohabitans sp. 1,16,0.009049774,Amino acid metabolism,Metabolism
+Phenylpropanoid biosynthesis,Limnohabitans sp. 1,1,0.000565611,Biosynthesis of other secondary metabolities,Metabolism
+Phosphatidylinositol signaling system,Limnohabitans sp. 1,3,0.001696833,Signal transduction,Environmental information processing
+Phosphonate and phosphinate metabolism,Limnohabitans sp. 1,0,0,Amino acid metabolism,Metabolism
+Phosphotransferase system (PTS),Limnohabitans sp. 1,2,0.001131222,Membrane transport,Environmental information processing
+Photosynthesis,Limnohabitans sp. 1,4,0.002262443,Energy metabolism,Metabolism
+Polycyclic aromatic hydrocarbon degradation,Limnohabitans sp. 1,4,0.002262443,Xenobiotics biodegradation and metabolism,Metabolism
+Polyketide sugar unit biosynthesis,Limnohabitans sp. 1,4,0.002262443,Metabolism of terpenoids and polyketides,Metabolism
+Porphyrin and chlorophyll metabolism,Limnohabitans sp. 1,27,0.015271493,Metabolism of cofactors and vitamins,Metabolism
+PPAR signaling pathway,Limnohabitans sp. 1,5,0.002828054,Endocrine system,Organismal systems
+Primary bile acid biosynthesis,Limnohabitans sp. 1,0,0,Lipid metabolism,Metabolism
+Prodigiosin biosynthesis,Limnohabitans sp. 1,3,0.001696833,Biosynthesis of other secondary metabolities,Metabolism
+Propanoate metabolism,Limnohabitans sp. 1,18,0.010180995,Carbohydrate metabolism,Metabolism
+Protein digestion and absorption,Limnohabitans sp. 1,0,0,Digestive system,Organismal systems
+Protein export,Limnohabitans sp. 1,11,0.006221719,"Folding, sorting and degredation",Genetic information processing
+Proximal tubule bicarbonate reclamation,Limnohabitans sp. 1,1,0.000565611,Excretory system,Organismal systems
+Purine metabolism,Limnohabitans sp. 1,42,0.023755656,Nucleotide metabolism,Metabolism
+Pyrimidine metabolism,Limnohabitans sp. 1,23,0.01300905,Nucleotide metabolism,Metabolism
+Pyruvate metabolism,Limnohabitans sp. 1,23,0.01300905,Carbohydrate metabolism,Metabolism
+Quorum sensing,Limnohabitans sp. 1,29,0.016402715,Cellular community,Cellular processes
+Retinol metabolism,Limnohabitans sp. 1,0,0,Metabolism of cofactors and vitamins,Metabolism
+Riboflavin metabolism,Limnohabitans sp. 1,4,0.002262443,Metabolism of cofactors and vitamins,Metabolism
+Ribosome,Limnohabitans sp. 1,31,0.017533937,Translation,Genetic information processing
+RNA degradation,Limnohabitans sp. 1,12,0.00678733,"Folding, sorting and degredation",Genetic information processing
+RNA polymerase,Limnohabitans sp. 1,2,0.001131222,Transcription,Genetic information processing
+RNA transport,Limnohabitans sp. 1,1,0.000565611,Translation,Genetic information processing
+Selenocompound metabolism,Limnohabitans sp. 1,9,0.005090498,Amino acid metabolism,Metabolism
+Sesquiterpenoid and triterpenoid biosynthesis,Limnohabitans sp. 1,1,0.000565611,Metabolism of terpenoids and polyketides,Metabolism
+Sphingolipid metabolism,Limnohabitans sp. 1,0,0,Lipid metabolism,Metabolism
+Starch and sucrose metabolism,Limnohabitans sp. 1,5,0.002828054,Carbohydrate metabolism,Metabolism
+Staurosporine biosynthesis,Limnohabitans sp. 1,0,0,Biosynthesis of other secondary metabolities,Metabolism
+Steroid biosynthesis,Limnohabitans sp. 1,1,0.000565611,Lipid metabolism,Metabolism
+Steroid degradation,Limnohabitans sp. 1,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Streptomycin biosynthesis,Limnohabitans sp. 1,6,0.003393665,Biosynthesis of other secondary metabolities,Metabolism
+Styrene degradation,Limnohabitans sp. 1,3,0.001696833,Xenobiotics biodegradation and metabolism,Metabolism
+Sulfur metabolism,Limnohabitans sp. 1,26,0.014705882,Energy metabolism,Metabolism
+Sulfur relay system,Limnohabitans sp. 1,9,0.005090498,"Folding, sorting and degredation",Genetic information processing
+Synthesis and degradation of ketone bodies,Limnohabitans sp. 1,5,0.002828054,Lipid metabolism,Metabolism
+Taurine and hypotaurine metabolism,Limnohabitans sp. 1,2,0.001131222,Amino acid metabolism,Metabolism
+Terpenoid backbone biosynthesis,Limnohabitans sp. 1,13,0.007352941,Metabolism of terpenoids and polyketides,Metabolism
+Thermogenesis,Limnohabitans sp. 1,7,0.003959276,Environmental adaptation,Organismal systems
+Thiamine metabolism,Limnohabitans sp. 1,5,0.002828054,Metabolism of cofactors and vitamins,Metabolism
+Thyroid hormone synthesis,Limnohabitans sp. 1,2,0.001131222,Endocrine system,Organismal systems
+Toluene degradation,Limnohabitans sp. 1,1,0.000565611,Xenobiotics biodegradation and metabolism,Metabolism
+"Tropane, piperidine and pyridine alkaloid biosynthesis",Limnohabitans sp. 1,3,0.001696833,Biosynthesis of other secondary metabolities,Metabolism
+Tryptophan metabolism,Limnohabitans sp. 1,15,0.008484163,Amino acid metabolism,Metabolism
+Two-component system,Limnohabitans sp. 1,45,0.025452489,Signal transduction,Environmental information processing
+Tyrosine metabolism,Limnohabitans sp. 1,12,0.00678733,Amino acid metabolism,Metabolism
+Ubiquinone and other terpenoid-quinone biosynthesis,Limnohabitans sp. 1,6,0.003393665,Metabolism of cofactors and vitamins,Metabolism
+"Valine, leucine and isoleucine biosynthesis",Limnohabitans sp. 1,10,0.005656109,Amino acid metabolism,Metabolism
+"Valine, leucine and isoleucine degradation",Limnohabitans sp. 1,20,0.011312217,Amino acid metabolism,Metabolism
+Vancomycin resistance,Limnohabitans sp. 1,4,0.002262443,Drug resistance,Human diseases
+Various types of N-glycan biosynthesis,Limnohabitans sp. 1,0,0,Glycan biosynthesis and metabolism,Metabolism
+Vitamin B6 metabolism,Limnohabitans sp. 1,4,0.002262443,Metabolism of cofactors and vitamins,Metabolism
+Xylene degradation,Limnohabitans sp. 1,1,0.000565611,Xenobiotics biodegradation and metabolism,Metabolism
+Zeatin biosynthesis,Limnohabitans sp. 1,1,0.000565611,Metabolism of terpenoids and polyketides,Metabolism
+2-oxocarboxylic acid metabolism,Limnohabitans sp. 2,18,0.011857708,Global metabolism,Metabolism
+ABC transporters,Limnohabitans sp. 2,73,0.048089592,Membrane transport,Environmental information processing
+Acarbose and validamycin biosynthesis,Limnohabitans sp. 2,2,0.001317523,Biosynthesis of other secondary metabolities,Metabolism
+"Alanine, aspartate and glutamate metabolism",Limnohabitans sp. 2,15,0.009881423,Amino acid metabolism,Metabolism
+alpha-Linolenic acid metabolism,Limnohabitans sp. 2,0,0,Lipid metabolism,Metabolism
+Amino sugar and nucleotide sugar metabolism,Limnohabitans sp. 2,14,0.009222661,Carbohydrate metabolism,Metabolism
+Aminoacyl-tRNA biosynthesis,Limnohabitans sp. 2,16,0.010540184,Translation,Genetic information processing
+Aminobenzoate degradation,Limnohabitans sp. 2,10,0.006587615,Xenobiotics biodegradation and metabolism,Metabolism
+AMPK signaling pathway,Limnohabitans sp. 2,4,0.002635046,Signal transduction,Environmental information processing
+Antifolate resistance,Limnohabitans sp. 2,4,0.002635046,Drug resistance,Human diseases
+Arachidonic acid metabolism,Limnohabitans sp. 2,1,0.000658762,Lipid metabolism,Metabolism
+Arginine and proline metabolism,Limnohabitans sp. 2,7,0.004611331,Amino acid metabolism,Metabolism
+Arginine biosynthesis,Limnohabitans sp. 2,15,0.009881423,Amino acid metabolism,Metabolism
+Ascorbate and aldarate metabolism,Limnohabitans sp. 2,9,0.005928854,Carbohydrate metabolism,Metabolism
+Atrazine degradation,Limnohabitans sp. 2,3,0.001976285,Xenobiotics biodegradation and metabolism,Metabolism
+Bacterial chemotaxis,Limnohabitans sp. 2,7,0.004611331,Cell motility,Cellular processes
+Bacterial secretion system,Limnohabitans sp. 2,11,0.007246377,Membrane transport,Environmental information processing
+Base excision repair,Limnohabitans sp. 2,9,0.005928854,Replication and repair,Genetic information processing
+Benzoate degradation,Limnohabitans sp. 2,20,0.013175231,Xenobiotics biodegradation and metabolism,Metabolism
+beta-Alanine metabolism,Limnohabitans sp. 2,7,0.004611331,Amino acid metabolism,Metabolism
+beta-Lactam resistance,Limnohabitans sp. 2,8,0.005270092,Drug resistance,Human diseases
+Biofilm formation - Escherichia coli,Limnohabitans sp. 2,6,0.003952569,Cellular community,Cellular processes
+Biofilm formation - Pseudomonas aeruginosa,Limnohabitans sp. 2,2,0.001317523,Cellular community,Cellular processes
+Biofilm formation - Vibrio cholerae,Limnohabitans sp. 2,7,0.004611331,Cellular community,Cellular processes
+Biosynthesis of amino acids,Limnohabitans sp. 2,68,0.044795784,Global metabolism,Metabolism
+Biosynthesis of ansamycins,Limnohabitans sp. 2,1,0.000658762,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of antibiotics,Limnohabitans sp. 2,124,0.08168643,Global metabolism,Metabolism
+Biosynthesis of type II polyketide products,Limnohabitans sp. 2,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of unsaturated fatty acids,Limnohabitans sp. 2,1,0.000658762,Lipid metabolism,Metabolism
+Biosynthesis of vancomycin group antibiotics,Limnohabitans sp. 2,1,0.000658762,Metabolism of terpenoids and polyketides,Metabolism
+Biotin metabolism,Limnohabitans sp. 2,5,0.003293808,Metabolism of cofactors and vitamins,Metabolism
+Butanoate metabolism,Limnohabitans sp. 2,18,0.011857708,Carbohydrate metabolism,Metabolism
+C5-Branched dibasic acid metabolism,Limnohabitans sp. 2,7,0.004611331,Carbohydrate metabolism,Metabolism
+Caprolactam degradation,Limnohabitans sp. 2,4,0.002635046,Xenobiotics biodegradation and metabolism,Metabolism
+Carbapenem biosynthesis,Limnohabitans sp. 2,1,0.000658762,Biosynthesis of other secondary metabolities,Metabolism
+Carbohydrate digestion and absorption,Limnohabitans sp. 2,0,0,Digestive system,Organismal systems
+Carbon fixation in photosynthetic organisms,Limnohabitans sp. 2,9,0.005928854,Energy metabolism,Metabolism
+Carbon fixation pathways in prokaryotes,Limnohabitans sp. 2,15,0.009881423,Energy metabolism,Metabolism
+Carbon metabolism,Limnohabitans sp. 2,65,0.042819499,Global metabolism,Metabolism
+Carotenoid biosynthesis,Limnohabitans sp. 2,5,0.003293808,Metabolism of terpenoids and polyketides,Metabolism
+Cationic antimicrobial peptide (CAMP) resistance,Limnohabitans sp. 2,8,0.005270092,Drug resistance,Human diseases
+Cell cycle - Caulobacter,Limnohabitans sp. 2,6,0.003952569,Cell growth and death,Cellular processes
+Chloroalkane and chloroalkene degradation,Limnohabitans sp. 2,3,0.001976285,Xenobiotics biodegradation and metabolism,Metabolism
+Chlorocyclohexane and chlorobenzene degradation,Limnohabitans sp. 2,3,0.001976285,Xenobiotics biodegradation and metabolism,Metabolism
+Cholesterol metabolism,Limnohabitans sp. 2,1,0.000658762,Digestive system,Organismal systems
+Citrate cycle (TCA cycle),Limnohabitans sp. 2,16,0.010540184,Carbohydrate metabolism,Metabolism
+Cyanoamino acid metabolism,Limnohabitans sp. 2,3,0.001976285,Amino acid metabolism,Metabolism
+Cysteine and methionine metabolism,Limnohabitans sp. 2,15,0.009881423,Amino acid metabolism,Metabolism
+D-Alanine metabolism,Limnohabitans sp. 2,2,0.001317523,Amino acid metabolism,Metabolism
+D-Glutamine and D-glutamate metabolism,Limnohabitans sp. 2,4,0.002635046,Amino acid metabolism,Metabolism
+Degradation of aromatic compounds,Limnohabitans sp. 2,11,0.007246377,Global metabolism,Metabolism
+Dioxin degradation,Limnohabitans sp. 2,1,0.000658762,Xenobiotics biodegradation and metabolism,Metabolism
+DNA replication,Limnohabitans sp. 2,12,0.007905138,Replication and repair,Genetic information processing
+Drug metabolism - cytochrome P450,Limnohabitans sp. 2,1,0.000658762,Xenobiotics biodegradation and metabolism,Metabolism
+Drug metabolism - other enzymes,Limnohabitans sp. 2,6,0.003952569,Xenobiotics biodegradation and metabolism,Metabolism
+Ether lipid metabolism,Limnohabitans sp. 2,0,0,Lipid metabolism,Metabolism
+Ethylbenzene degradation,Limnohabitans sp. 2,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Fatty acid biosynthesis,Limnohabitans sp. 2,7,0.004611331,Lipid metabolism,Metabolism
+Fatty acid degradation,Limnohabitans sp. 2,8,0.005270092,Lipid metabolism,Metabolism
+Fatty acid metabolism,Limnohabitans sp. 2,13,0.0085639,Lipid metabolism,Metabolism
+Ferroptosis,Limnohabitans sp. 2,1,0.000658762,Cell growth and death,Cellular processes
+Flagellar assembly,Limnohabitans sp. 2,27,0.017786561,Cell motility,Cellular processes
+Fluorobenzoate degradation,Limnohabitans sp. 2,2,0.001317523,Xenobiotics biodegradation and metabolism,Metabolism
+Folate biosynthesis,Limnohabitans sp. 2,17,0.011198946,Metabolism of cofactors and vitamins,Metabolism
+Fructose and mannose metabolism,Limnohabitans sp. 2,6,0.003952569,Carbohydrate metabolism,Metabolism
+Galactose metabolism,Limnohabitans sp. 2,2,0.001317523,Carbohydrate metabolism,Metabolism
+Geraniol degradation,Limnohabitans sp. 2,8,0.005270092,Metabolism of terpenoids and polyketides,Metabolism
+Glucosinolate biosynthesis,Limnohabitans sp. 2,1,0.000658762,Biosynthesis of other secondary metabolities,Metabolism
+Glutathione metabolism,Limnohabitans sp. 2,11,0.007246377,Amino acid metabolism,Metabolism
+Glycerolipid metabolism,Limnohabitans sp. 2,7,0.004611331,Lipid metabolism,Metabolism
+Glycerophospholipid metabolism,Limnohabitans sp. 2,11,0.007246377,Lipid metabolism,Metabolism
+"Glycine, serine and threonine metabolism",Limnohabitans sp. 2,18,0.011857708,Amino acid metabolism,Metabolism
+Glycolysis/Gluconeogenesis,Limnohabitans sp. 2,15,0.009881423,Carbohydrate metabolism,Metabolism
+Glycosaminoglycan degradation,Limnohabitans sp. 2,1,0.000658762,Glycan biosynthesis and metabolism,Metabolism
+Glyoxylate and dicarboxylate metabolism,Limnohabitans sp. 2,32,0.021080369,Carbohydrate metabolism,Metabolism
+Histidine metabolism,Limnohabitans sp. 2,8,0.005270092,Amino acid metabolism,Metabolism
+Homologous recombination,Limnohabitans sp. 2,17,0.011198946,Replication and repair,Genetic information processing
+Inositol phosphate metabolism,Limnohabitans sp. 2,3,0.001976285,Carbohydrate metabolism,Metabolism
+Isoquinoline alkaloid biosynthesis,Limnohabitans sp. 2,1,0.000658762,Biosynthesis of other secondary metabolities,Metabolism
+Limonene and pinene degradation,Limnohabitans sp. 2,3,0.001976285,Metabolism of terpenoids and polyketides,Metabolism
+Linoleic acid metabolism,Limnohabitans sp. 2,0,0,Lipid metabolism,Metabolism
+Lipoic acid metabolism,Limnohabitans sp. 2,1,0.000658762,Metabolism of cofactors and vitamins,Metabolism
+Lipopolysaccharide biosynthesis,Limnohabitans sp. 2,12,0.007905138,Glycan biosynthesis and metabolism,Metabolism
+Lysine biosynthesis,Limnohabitans sp. 2,13,0.0085639,Amino acid metabolism,Metabolism
+Lysine degradation,Limnohabitans sp. 2,8,0.005270092,Amino acid metabolism,Metabolism
+Metabolism of xenobiotics by cytochrome P450,Limnohabitans sp. 2,1,0.000658762,Xenobiotics biodegradation and metabolism,Metabolism
+Methane metabolism,Limnohabitans sp. 2,15,0.009881423,Energy metabolism,Metabolism
+Mineral absorption,Limnohabitans sp. 2,1,0.000658762,Digestive system,Organismal systems
+Mismatch repair,Limnohabitans sp. 2,14,0.009222661,Replication and repair,Genetic information processing
+Monobactam biosynthesis,Limnohabitans sp. 2,5,0.003293808,Biosynthesis of other secondary metabolities,Metabolism
+Naphthalene degradation,Limnohabitans sp. 2,1,0.000658762,Xenobiotics biodegradation and metabolism,Metabolism
+N-Glycan biosynthesis,Limnohabitans sp. 2,0,0,Glycan biosynthesis and metabolism,Metabolism
+"Neomycin, kanamycin and gentamicin biosynthesis",Limnohabitans sp. 2,0,0,Biosynthesis of other secondary metabolities,Metabolism
+Nicotinate and nicotinamide metabolism,Limnohabitans sp. 2,9,0.005928854,Metabolism of cofactors and vitamins,Metabolism
+Nitrogen metabolism,Limnohabitans sp. 2,11,0.007246377,Energy metabolism,Metabolism
+Nitrotoluene degradation,Limnohabitans sp. 2,1,0.000658762,Xenobiotics biodegradation and metabolism,Metabolism
+Nonribosomal peptide structures,Limnohabitans sp. 2,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Novobiocin biosynthesis,Limnohabitans sp. 2,1,0.000658762,Biosynthesis of other secondary metabolities,Metabolism
+Nucleotide excision repair,Limnohabitans sp. 2,7,0.004611331,Replication and repair,Genetic information processing
+One carbon pool by folate,Limnohabitans sp. 2,10,0.006587615,Metabolism of cofactors and vitamins,Metabolism
+Other glycan degradation,Limnohabitans sp. 2,0,0,Glycan biosynthesis and metabolism,Metabolism
+Oxidative phosphorylation,Limnohabitans sp. 2,20,0.013175231,Energy metabolism,Metabolism
+Pantothenate and CoA biosynthesis,Limnohabitans sp. 2,8,0.005270092,Metabolism of cofactors and vitamins,Metabolism
+Penicillin and cephalosporin biosynthesis,Limnohabitans sp. 2,1,0.000658762,Biosynthesis of other secondary metabolities,Metabolism
+Pentose and glucuronate interconversions,Limnohabitans sp. 2,5,0.003293808,Carbohydrate metabolism,Metabolism
+Pentose phosphate pathway,Limnohabitans sp. 2,18,0.011857708,Carbohydrate metabolism,Metabolism
+Peptidoglycan biosynthesis,Limnohabitans sp. 2,16,0.010540184,Glycan biosynthesis and metabolism,Metabolism
+Peroxisome,Limnohabitans sp. 2,6,0.003952569,Transport and catabolism,Cellular processes
+Phenazine biosynthesis,Limnohabitans sp. 2,0,0,Biosynthesis of other secondary metabolities,Metabolism
+Phenylalanine metabolism,Limnohabitans sp. 2,13,0.0085639,Amino acid metabolism,Metabolism
+"Phenylalanine, tyrosine and tryptophan biosynthesis",Limnohabitans sp. 2,8,0.005270092,Amino acid metabolism,Metabolism
+Phenylpropanoid biosynthesis,Limnohabitans sp. 2,1,0.000658762,Biosynthesis of other secondary metabolities,Metabolism
+Phosphatidylinositol signaling system,Limnohabitans sp. 2,3,0.001976285,Signal transduction,Environmental information processing
+Phosphonate and phosphinate metabolism,Limnohabitans sp. 2,0,0,Amino acid metabolism,Metabolism
+Phosphotransferase system (PTS),Limnohabitans sp. 2,2,0.001317523,Membrane transport,Environmental information processing
+Photosynthesis,Limnohabitans sp. 2,2,0.001317523,Energy metabolism,Metabolism
+Polycyclic aromatic hydrocarbon degradation,Limnohabitans sp. 2,3,0.001976285,Xenobiotics biodegradation and metabolism,Metabolism
+Polyketide sugar unit biosynthesis,Limnohabitans sp. 2,4,0.002635046,Metabolism of terpenoids and polyketides,Metabolism
+Porphyrin and chlorophyll metabolism,Limnohabitans sp. 2,27,0.017786561,Metabolism of cofactors and vitamins,Metabolism
+PPAR signaling pathway,Limnohabitans sp. 2,5,0.003293808,Endocrine system,Organismal systems
+Primary bile acid biosynthesis,Limnohabitans sp. 2,1,0.000658762,Lipid metabolism,Metabolism
+Prodigiosin biosynthesis,Limnohabitans sp. 2,2,0.001317523,Biosynthesis of other secondary metabolities,Metabolism
+Propanoate metabolism,Limnohabitans sp. 2,18,0.011857708,Carbohydrate metabolism,Metabolism
+Protein digestion and absorption,Limnohabitans sp. 2,0,0,Digestive system,Organismal systems
+Protein export,Limnohabitans sp. 2,12,0.007905138,"Folding, sorting and degredation",Genetic information processing
+Proximal tubule bicarbonate reclamation,Limnohabitans sp. 2,2,0.001317523,Excretory system,Organismal systems
+Purine metabolism,Limnohabitans sp. 2,37,0.024374177,Nucleotide metabolism,Metabolism
+Pyrimidine metabolism,Limnohabitans sp. 2,23,0.015151515,Nucleotide metabolism,Metabolism
+Pyruvate metabolism,Limnohabitans sp. 2,22,0.014492754,Carbohydrate metabolism,Metabolism
+Quorum sensing,Limnohabitans sp. 2,21,0.013833992,Cellular community,Cellular processes
+Retinol metabolism,Limnohabitans sp. 2,0,0,Metabolism of cofactors and vitamins,Metabolism
+Riboflavin metabolism,Limnohabitans sp. 2,4,0.002635046,Metabolism of cofactors and vitamins,Metabolism
+Ribosome,Limnohabitans sp. 2,18,0.011857708,Translation,Genetic information processing
+RNA degradation,Limnohabitans sp. 2,13,0.0085639,"Folding, sorting and degredation",Genetic information processing
+RNA polymerase,Limnohabitans sp. 2,1,0.000658762,Transcription,Genetic information processing
+RNA transport,Limnohabitans sp. 2,1,0.000658762,Translation,Genetic information processing
+Selenocompound metabolism,Limnohabitans sp. 2,8,0.005270092,Amino acid metabolism,Metabolism
+Sesquiterpenoid and triterpenoid biosynthesis,Limnohabitans sp. 2,1,0.000658762,Metabolism of terpenoids and polyketides,Metabolism
+Sphingolipid metabolism,Limnohabitans sp. 2,0,0,Lipid metabolism,Metabolism
+Starch and sucrose metabolism,Limnohabitans sp. 2,3,0.001976285,Carbohydrate metabolism,Metabolism
+Staurosporine biosynthesis,Limnohabitans sp. 2,0,0,Biosynthesis of other secondary metabolities,Metabolism
+Steroid biosynthesis,Limnohabitans sp. 2,1,0.000658762,Lipid metabolism,Metabolism
+Steroid degradation,Limnohabitans sp. 2,1,0.000658762,Xenobiotics biodegradation and metabolism,Metabolism
+Streptomycin biosynthesis,Limnohabitans sp. 2,5,0.003293808,Biosynthesis of other secondary metabolities,Metabolism
+Styrene degradation,Limnohabitans sp. 2,4,0.002635046,Xenobiotics biodegradation and metabolism,Metabolism
+Sulfur metabolism,Limnohabitans sp. 2,15,0.009881423,Energy metabolism,Metabolism
+Sulfur relay system,Limnohabitans sp. 2,8,0.005270092,"Folding, sorting and degredation",Genetic information processing
+Synthesis and degradation of ketone bodies,Limnohabitans sp. 2,4,0.002635046,Lipid metabolism,Metabolism
+Taurine and hypotaurine metabolism,Limnohabitans sp. 2,2,0.001317523,Amino acid metabolism,Metabolism
+Terpenoid backbone biosynthesis,Limnohabitans sp. 2,11,0.007246377,Metabolism of terpenoids and polyketides,Metabolism
+Thermogenesis,Limnohabitans sp. 2,7,0.004611331,Environmental adaptation,Organismal systems
+Thiamine metabolism,Limnohabitans sp. 2,5,0.003293808,Metabolism of cofactors and vitamins,Metabolism
+Thyroid hormone synthesis,Limnohabitans sp. 2,1,0.000658762,Endocrine system,Organismal systems
+Toluene degradation,Limnohabitans sp. 2,1,0.000658762,Xenobiotics biodegradation and metabolism,Metabolism
+"Tropane, piperidine and pyridine alkaloid biosynthesis",Limnohabitans sp. 2,1,0.000658762,Biosynthesis of other secondary metabolities,Metabolism
+Tryptophan metabolism,Limnohabitans sp. 2,14,0.009222661,Amino acid metabolism,Metabolism
+Two-component system,Limnohabitans sp. 2,39,0.0256917,Signal transduction,Environmental information processing
+Tyrosine metabolism,Limnohabitans sp. 2,14,0.009222661,Amino acid metabolism,Metabolism
+Ubiquinone and other terpenoid-quinone biosynthesis,Limnohabitans sp. 2,6,0.003952569,Metabolism of cofactors and vitamins,Metabolism
+"Valine, leucine and isoleucine biosynthesis",Limnohabitans sp. 2,8,0.005270092,Amino acid metabolism,Metabolism
+"Valine, leucine and isoleucine degradation",Limnohabitans sp. 2,19,0.012516469,Amino acid metabolism,Metabolism
+Vancomycin resistance,Limnohabitans sp. 2,5,0.003293808,Drug resistance,Human diseases
+Various types of N-glycan biosynthesis,Limnohabitans sp. 2,0,0,Glycan biosynthesis and metabolism,Metabolism
+Vitamin B6 metabolism,Limnohabitans sp. 2,4,0.002635046,Metabolism of cofactors and vitamins,Metabolism
+Xylene degradation,Limnohabitans sp. 2,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Zeatin biosynthesis,Limnohabitans sp. 2,1,0.000658762,Metabolism of terpenoids and polyketides,Metabolism
+2-oxocarboxylic acid metabolism,Pedobacter sp.,20,0.013908206,Global metabolism,Metabolism
+ABC transporters,Pedobacter sp.,19,0.013212796,Membrane transport,Environmental information processing
+Acarbose and validamycin biosynthesis,Pedobacter sp.,2,0.001390821,Biosynthesis of other secondary metabolities,Metabolism
+"Alanine, aspartate and glutamate metabolism",Pedobacter sp.,19,0.013212796,Amino acid metabolism,Metabolism
+alpha-Linolenic acid metabolism,Pedobacter sp.,1,0.00069541,Lipid metabolism,Metabolism
+Amino sugar and nucleotide sugar metabolism,Pedobacter sp.,25,0.017385257,Carbohydrate metabolism,Metabolism
+Aminoacyl-tRNA biosynthesis,Pedobacter sp.,26,0.018080668,Translation,Genetic information processing
+Aminobenzoate degradation,Pedobacter sp.,2,0.001390821,Xenobiotics biodegradation and metabolism,Metabolism
+AMPK signaling pathway,Pedobacter sp.,3,0.002086231,Signal transduction,Environmental information processing
+Antifolate resistance,Pedobacter sp.,5,0.003477051,Drug resistance,Human diseases
+Arachidonic acid metabolism,Pedobacter sp.,1,0.00069541,Lipid metabolism,Metabolism
+Arginine and proline metabolism,Pedobacter sp.,10,0.006954103,Amino acid metabolism,Metabolism
+Arginine biosynthesis,Pedobacter sp.,10,0.006954103,Amino acid metabolism,Metabolism
+Ascorbate and aldarate metabolism,Pedobacter sp.,2,0.001390821,Carbohydrate metabolism,Metabolism
+Atrazine degradation,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Bacterial chemotaxis,Pedobacter sp.,1,0.00069541,Cell motility,Cellular processes
+Bacterial secretion system,Pedobacter sp.,12,0.008344924,Membrane transport,Environmental information processing
+Base excision repair,Pedobacter sp.,8,0.005563282,Replication and repair,Genetic information processing
+Benzoate degradation,Pedobacter sp.,5,0.003477051,Xenobiotics biodegradation and metabolism,Metabolism
+beta-Alanine metabolism,Pedobacter sp.,3,0.002086231,Amino acid metabolism,Metabolism
+beta-Lactam resistance,Pedobacter sp.,7,0.004867872,Drug resistance,Human diseases
+Biofilm formation - Escherichia coli,Pedobacter sp.,5,0.003477051,Cellular community,Cellular processes
+Biofilm formation - Pseudomonas aeruginosa,Pedobacter sp.,3,0.002086231,Cellular community,Cellular processes
+Biofilm formation - Vibrio cholerae,Pedobacter sp.,5,0.003477051,Cellular community,Cellular processes
+Biosynthesis of amino acids,Pedobacter sp.,80,0.055632823,Global metabolism,Metabolism
+Biosynthesis of ansamycins,Pedobacter sp.,1,0.00069541,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of antibiotics,Pedobacter sp.,135,0.093880389,Global metabolism,Metabolism
+Biosynthesis of type II polyketide products,Pedobacter sp.,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of unsaturated fatty acids,Pedobacter sp.,3,0.002086231,Lipid metabolism,Metabolism
+Biosynthesis of vancomycin group antibiotics,Pedobacter sp.,1,0.00069541,Metabolism of terpenoids and polyketides,Metabolism
+Biotin metabolism,Pedobacter sp.,8,0.005563282,Metabolism of cofactors and vitamins,Metabolism
+Butanoate metabolism,Pedobacter sp.,12,0.008344924,Carbohydrate metabolism,Metabolism
+C5-Branched dibasic acid metabolism,Pedobacter sp.,8,0.005563282,Carbohydrate metabolism,Metabolism
+Caprolactam degradation,Pedobacter sp.,1,0.00069541,Xenobiotics biodegradation and metabolism,Metabolism
+Carbapenem biosynthesis,Pedobacter sp.,0,0,Biosynthesis of other secondary metabolities,Metabolism
+Carbohydrate digestion and absorption,Pedobacter sp.,0,0,Digestive system,Organismal systems
+Carbon fixation in photosynthetic organisms,Pedobacter sp.,12,0.008344924,Energy metabolism,Metabolism
+Carbon fixation pathways in prokaryotes,Pedobacter sp.,22,0.015299026,Energy metabolism,Metabolism
+Carbon metabolism,Pedobacter sp.,63,0.043810848,Global metabolism,Metabolism
+Carotenoid biosynthesis,Pedobacter sp.,4,0.002781641,Metabolism of terpenoids and polyketides,Metabolism
+Cationic antimicrobial peptide (CAMP) resistance,Pedobacter sp.,6,0.004172462,Drug resistance,Human diseases
+Cell cycle - Caulobacter,Pedobacter sp.,11,0.007649513,Cell growth and death,Cellular processes
+Chloroalkane and chloroalkene degradation,Pedobacter sp.,1,0.00069541,Xenobiotics biodegradation and metabolism,Metabolism
+Chlorocyclohexane and chlorobenzene degradation,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Cholesterol metabolism,Pedobacter sp.,0,0,Digestive system,Organismal systems
+Citrate cycle (TCA cycle),Pedobacter sp.,17,0.011821975,Carbohydrate metabolism,Metabolism
+Cyanoamino acid metabolism,Pedobacter sp.,4,0.002781641,Amino acid metabolism,Metabolism
+Cysteine and methionine metabolism,Pedobacter sp.,18,0.012517385,Amino acid metabolism,Metabolism
+D-Alanine metabolism,Pedobacter sp.,2,0.001390821,Amino acid metabolism,Metabolism
+D-Glutamine and D-glutamate metabolism,Pedobacter sp.,4,0.002781641,Amino acid metabolism,Metabolism
+Degradation of aromatic compounds,Pedobacter sp.,1,0.00069541,Global metabolism,Metabolism
+Dioxin degradation,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+DNA replication,Pedobacter sp.,13,0.009040334,Replication and repair,Genetic information processing
+Drug metabolism - cytochrome P450,Pedobacter sp.,1,0.00069541,Xenobiotics biodegradation and metabolism,Metabolism
+Drug metabolism - other enzymes,Pedobacter sp.,10,0.006954103,Xenobiotics biodegradation and metabolism,Metabolism
+Ether lipid metabolism,Pedobacter sp.,0,0,Lipid metabolism,Metabolism
+Ethylbenzene degradation,Pedobacter sp.,1,0.00069541,Xenobiotics biodegradation and metabolism,Metabolism
+Fatty acid biosynthesis,Pedobacter sp.,13,0.009040334,Lipid metabolism,Metabolism
+Fatty acid degradation,Pedobacter sp.,7,0.004867872,Lipid metabolism,Metabolism
+Fatty acid metabolism,Pedobacter sp.,17,0.011821975,Lipid metabolism,Metabolism
+Ferroptosis,Pedobacter sp.,1,0.00069541,Cell growth and death,Cellular processes
+Flagellar assembly,Pedobacter sp.,1,0.00069541,Cell motility,Cellular processes
+Fluorobenzoate degradation,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Folate biosynthesis,Pedobacter sp.,14,0.009735744,Metabolism of cofactors and vitamins,Metabolism
+Fructose and mannose metabolism,Pedobacter sp.,12,0.008344924,Carbohydrate metabolism,Metabolism
+Galactose metabolism,Pedobacter sp.,9,0.006258693,Carbohydrate metabolism,Metabolism
+Geraniol degradation,Pedobacter sp.,2,0.001390821,Metabolism of terpenoids and polyketides,Metabolism
+Glucosinolate biosynthesis,Pedobacter sp.,1,0.00069541,Biosynthesis of other secondary metabolities,Metabolism
+Glutathione metabolism,Pedobacter sp.,4,0.002781641,Amino acid metabolism,Metabolism
+Glycerolipid metabolism,Pedobacter sp.,6,0.004172462,Lipid metabolism,Metabolism
+Glycerophospholipid metabolism,Pedobacter sp.,9,0.006258693,Lipid metabolism,Metabolism
+"Glycine, serine and threonine metabolism",Pedobacter sp.,19,0.013212796,Amino acid metabolism,Metabolism
+Glycolysis/Gluconeogenesis,Pedobacter sp.,21,0.014603616,Carbohydrate metabolism,Metabolism
+Glycosaminoglycan degradation,Pedobacter sp.,1,0.00069541,Glycan biosynthesis and metabolism,Metabolism
+Glyoxylate and dicarboxylate metabolism,Pedobacter sp.,19,0.013212796,Carbohydrate metabolism,Metabolism
+Histidine metabolism,Pedobacter sp.,10,0.006954103,Amino acid metabolism,Metabolism
+Homologous recombination,Pedobacter sp.,18,0.012517385,Replication and repair,Genetic information processing
+Inositol phosphate metabolism,Pedobacter sp.,2,0.001390821,Carbohydrate metabolism,Metabolism
+Isoquinoline alkaloid biosynthesis,Pedobacter sp.,2,0.001390821,Biosynthesis of other secondary metabolities,Metabolism
+Limonene and pinene degradation,Pedobacter sp.,1,0.00069541,Metabolism of terpenoids and polyketides,Metabolism
+Linoleic acid metabolism,Pedobacter sp.,0,0,Lipid metabolism,Metabolism
+Lipoic acid metabolism,Pedobacter sp.,2,0.001390821,Metabolism of cofactors and vitamins,Metabolism
+Lipopolysaccharide biosynthesis,Pedobacter sp.,15,0.010431154,Glycan biosynthesis and metabolism,Metabolism
+Lysine biosynthesis,Pedobacter sp.,11,0.007649513,Amino acid metabolism,Metabolism
+Lysine degradation,Pedobacter sp.,5,0.003477051,Amino acid metabolism,Metabolism
+Metabolism of xenobiotics by cytochrome P450,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Methane metabolism,Pedobacter sp.,15,0.010431154,Energy metabolism,Metabolism
+Mineral absorption,Pedobacter sp.,0,0,Digestive system,Organismal systems
+Mismatch repair,Pedobacter sp.,13,0.009040334,Replication and repair,Genetic information processing
+Monobactam biosynthesis,Pedobacter sp.,6,0.004172462,Biosynthesis of other secondary metabolities,Metabolism
+Naphthalene degradation,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+N-Glycan biosynthesis,Pedobacter sp.,1,0.00069541,Glycan biosynthesis and metabolism,Metabolism
+"Neomycin, kanamycin and gentamicin biosynthesis",Pedobacter sp.,1,0.00069541,Biosynthesis of other secondary metabolities,Metabolism
+Nicotinate and nicotinamide metabolism,Pedobacter sp.,11,0.007649513,Metabolism of cofactors and vitamins,Metabolism
+Nitrogen metabolism,Pedobacter sp.,5,0.003477051,Energy metabolism,Metabolism
+Nitrotoluene degradation,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Nonribosomal peptide structures,Pedobacter sp.,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Novobiocin biosynthesis,Pedobacter sp.,2,0.001390821,Biosynthesis of other secondary metabolities,Metabolism
+Nucleotide excision repair,Pedobacter sp.,7,0.004867872,Replication and repair,Genetic information processing
+One carbon pool by folate,Pedobacter sp.,11,0.007649513,Metabolism of cofactors and vitamins,Metabolism
+Other glycan degradation,Pedobacter sp.,4,0.002781641,Glycan biosynthesis and metabolism,Metabolism
+Oxidative phosphorylation,Pedobacter sp.,35,0.02433936,Energy metabolism,Metabolism
+Pantothenate and CoA biosynthesis,Pedobacter sp.,12,0.008344924,Metabolism of cofactors and vitamins,Metabolism
+Penicillin and cephalosporin biosynthesis,Pedobacter sp.,2,0.001390821,Biosynthesis of other secondary metabolities,Metabolism
+Pentose and glucuronate interconversions,Pedobacter sp.,8,0.005563282,Carbohydrate metabolism,Metabolism
+Pentose phosphate pathway,Pedobacter sp.,14,0.009735744,Carbohydrate metabolism,Metabolism
+Peptidoglycan biosynthesis,Pedobacter sp.,16,0.011126565,Glycan biosynthesis and metabolism,Metabolism
+Peroxisome,Pedobacter sp.,4,0.002781641,Transport and catabolism,Cellular processes
+Phenazine biosynthesis,Pedobacter sp.,2,0.001390821,Biosynthesis of other secondary metabolities,Metabolism
+Phenylalanine metabolism,Pedobacter sp.,7,0.004867872,Amino acid metabolism,Metabolism
+"Phenylalanine, tyrosine and tryptophan biosynthesis",Pedobacter sp.,19,0.013212796,Amino acid metabolism,Metabolism
+Phenylpropanoid biosynthesis,Pedobacter sp.,3,0.002086231,Biosynthesis of other secondary metabolities,Metabolism
+Phosphatidylinositol signaling system,Pedobacter sp.,3,0.002086231,Signal transduction,Environmental information processing
+Phosphonate and phosphinate metabolism,Pedobacter sp.,1,0.00069541,Amino acid metabolism,Metabolism
+Phosphotransferase system (PTS),Pedobacter sp.,0,0,Membrane transport,Environmental information processing
+Photosynthesis,Pedobacter sp.,8,0.005563282,Energy metabolism,Metabolism
+Polycyclic aromatic hydrocarbon degradation,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Polyketide sugar unit biosynthesis,Pedobacter sp.,4,0.002781641,Metabolism of terpenoids and polyketides,Metabolism
+Porphyrin and chlorophyll metabolism,Pedobacter sp.,13,0.009040334,Metabolism of cofactors and vitamins,Metabolism
+PPAR signaling pathway,Pedobacter sp.,3,0.002086231,Endocrine system,Organismal systems
+Primary bile acid biosynthesis,Pedobacter sp.,0,0,Lipid metabolism,Metabolism
+Prodigiosin biosynthesis,Pedobacter sp.,3,0.002086231,Biosynthesis of other secondary metabolities,Metabolism
+Propanoate metabolism,Pedobacter sp.,14,0.009735744,Carbohydrate metabolism,Metabolism
+Protein digestion and absorption,Pedobacter sp.,1,0.00069541,Digestive system,Organismal systems
+Protein export,Pedobacter sp.,13,0.009040334,"Folding, sorting and degredation",Genetic information processing
+Proximal tubule bicarbonate reclamation,Pedobacter sp.,1,0.00069541,Excretory system,Organismal systems
+Purine metabolism,Pedobacter sp.,31,0.021557719,Nucleotide metabolism,Metabolism
+Pyrimidine metabolism,Pedobacter sp.,25,0.017385257,Nucleotide metabolism,Metabolism
+Pyruvate metabolism,Pedobacter sp.,22,0.015299026,Carbohydrate metabolism,Metabolism
+Quorum sensing,Pedobacter sp.,17,0.011821975,Cellular community,Cellular processes
+Retinol metabolism,Pedobacter sp.,0,0,Metabolism of cofactors and vitamins,Metabolism
+Riboflavin metabolism,Pedobacter sp.,5,0.003477051,Metabolism of cofactors and vitamins,Metabolism
+Ribosome,Pedobacter sp.,54,0.037552156,Translation,Genetic information processing
+RNA degradation,Pedobacter sp.,12,0.008344924,"Folding, sorting and degredation",Genetic information processing
+RNA polymerase,Pedobacter sp.,3,0.002086231,Transcription,Genetic information processing
+RNA transport,Pedobacter sp.,2,0.001390821,Translation,Genetic information processing
+Selenocompound metabolism,Pedobacter sp.,8,0.005563282,Amino acid metabolism,Metabolism
+Sesquiterpenoid and triterpenoid biosynthesis,Pedobacter sp.,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Sphingolipid metabolism,Pedobacter sp.,2,0.001390821,Lipid metabolism,Metabolism
+Starch and sucrose metabolism,Pedobacter sp.,8,0.005563282,Carbohydrate metabolism,Metabolism
+Staurosporine biosynthesis,Pedobacter sp.,0,0,Biosynthesis of other secondary metabolities,Metabolism
+Steroid biosynthesis,Pedobacter sp.,0,0,Lipid metabolism,Metabolism
+Steroid degradation,Pedobacter sp.,1,0.00069541,Xenobiotics biodegradation and metabolism,Metabolism
+Streptomycin biosynthesis,Pedobacter sp.,7,0.004867872,Biosynthesis of other secondary metabolities,Metabolism
+Styrene degradation,Pedobacter sp.,1,0.00069541,Xenobiotics biodegradation and metabolism,Metabolism
+Sulfur metabolism,Pedobacter sp.,9,0.006258693,Energy metabolism,Metabolism
+Sulfur relay system,Pedobacter sp.,5,0.003477051,"Folding, sorting and degredation",Genetic information processing
+Synthesis and degradation of ketone bodies,Pedobacter sp.,4,0.002781641,Lipid metabolism,Metabolism
+Taurine and hypotaurine metabolism,Pedobacter sp.,2,0.001390821,Amino acid metabolism,Metabolism
+Terpenoid backbone biosynthesis,Pedobacter sp.,12,0.008344924,Metabolism of terpenoids and polyketides,Metabolism
+Thermogenesis,Pedobacter sp.,3,0.002086231,Environmental adaptation,Organismal systems
+Thiamine metabolism,Pedobacter sp.,6,0.004172462,Metabolism of cofactors and vitamins,Metabolism
+Thyroid hormone synthesis,Pedobacter sp.,1,0.00069541,Endocrine system,Organismal systems
+Toluene degradation,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+"Tropane, piperidine and pyridine alkaloid biosynthesis",Pedobacter sp.,2,0.001390821,Biosynthesis of other secondary metabolities,Metabolism
+Tryptophan metabolism,Pedobacter sp.,6,0.004172462,Amino acid metabolism,Metabolism
+Two-component system,Pedobacter sp.,18,0.012517385,Signal transduction,Environmental information processing
+Tyrosine metabolism,Pedobacter sp.,5,0.003477051,Amino acid metabolism,Metabolism
+Ubiquinone and other terpenoid-quinone biosynthesis,Pedobacter sp.,12,0.008344924,Metabolism of cofactors and vitamins,Metabolism
+"Valine, leucine and isoleucine biosynthesis",Pedobacter sp.,11,0.007649513,Amino acid metabolism,Metabolism
+"Valine, leucine and isoleucine degradation",Pedobacter sp.,15,0.010431154,Amino acid metabolism,Metabolism
+Vancomycin resistance,Pedobacter sp.,6,0.004172462,Drug resistance,Human diseases
+Various types of N-glycan biosynthesis,Pedobacter sp.,1,0.00069541,Glycan biosynthesis and metabolism,Metabolism
+Vitamin B6 metabolism,Pedobacter sp.,4,0.002781641,Metabolism of cofactors and vitamins,Metabolism
+Xylene degradation,Pedobacter sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Zeatin biosynthesis,Pedobacter sp.,1,0.00069541,Metabolism of terpenoids and polyketides,Metabolism
+2-oxocarboxylic acid metabolism,Polaromonas sp.,20,0.011148272,Global metabolism,Metabolism
+ABC transporters,Polaromonas sp.,66,0.036789298,Membrane transport,Environmental information processing
+Acarbose and validamycin biosynthesis,Polaromonas sp.,2,0.001114827,Biosynthesis of other secondary metabolities,Metabolism
+"Alanine, aspartate and glutamate metabolism",Polaromonas sp.,18,0.010033445,Amino acid metabolism,Metabolism
+alpha-Linolenic acid metabolism,Polaromonas sp.,2,0.001114827,Lipid metabolism,Metabolism
+Amino sugar and nucleotide sugar metabolism,Polaromonas sp.,13,0.007246377,Carbohydrate metabolism,Metabolism
+Aminoacyl-tRNA biosynthesis,Polaromonas sp.,23,0.012820513,Translation,Genetic information processing
+Aminobenzoate degradation,Polaromonas sp.,2,0.001114827,Xenobiotics biodegradation and metabolism,Metabolism
+AMPK signaling pathway,Polaromonas sp.,4,0.002229654,Signal transduction,Environmental information processing
+Antifolate resistance,Polaromonas sp.,5,0.002787068,Drug resistance,Human diseases
+Arachidonic acid metabolism,Polaromonas sp.,2,0.001114827,Lipid metabolism,Metabolism
+Arginine and proline metabolism,Polaromonas sp.,10,0.005574136,Amino acid metabolism,Metabolism
+Arginine biosynthesis,Polaromonas sp.,15,0.008361204,Amino acid metabolism,Metabolism
+Ascorbate and aldarate metabolism,Polaromonas sp.,3,0.001672241,Carbohydrate metabolism,Metabolism
+Atrazine degradation,Polaromonas sp.,5,0.002787068,Xenobiotics biodegradation and metabolism,Metabolism
+Bacterial chemotaxis,Polaromonas sp.,13,0.007246377,Cell motility,Cellular processes
+Bacterial secretion system,Polaromonas sp.,24,0.013377926,Membrane transport,Environmental information processing
+Base excision repair,Polaromonas sp.,12,0.006688963,Replication and repair,Genetic information processing
+Benzoate degradation,Polaromonas sp.,13,0.007246377,Xenobiotics biodegradation and metabolism,Metabolism
+beta-Alanine metabolism,Polaromonas sp.,9,0.005016722,Amino acid metabolism,Metabolism
+beta-Lactam resistance,Polaromonas sp.,9,0.005016722,Drug resistance,Human diseases
+Biofilm formation - Escherichia coli,Polaromonas sp.,12,0.006688963,Cellular community,Cellular processes
+Biofilm formation - Pseudomonas aeruginosa,Polaromonas sp.,14,0.00780379,Cellular community,Cellular processes
+Biofilm formation - Vibrio cholerae,Polaromonas sp.,19,0.010590858,Cellular community,Cellular processes
+Biosynthesis of amino acids,Polaromonas sp.,37,0.020624303,Global metabolism,Metabolism
+Biosynthesis of ansamycins,Polaromonas sp.,1,0.000557414,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of antibiotics,Polaromonas sp.,148,0.082497213,Global metabolism,Metabolism
+Biosynthesis of type II polyketide products,Polaromonas sp.,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of unsaturated fatty acids,Polaromonas sp.,5,0.002787068,Lipid metabolism,Metabolism
+Biosynthesis of vancomycin group antibiotics,Polaromonas sp.,2,0.001114827,Metabolism of terpenoids and polyketides,Metabolism
+Biotin metabolism,Polaromonas sp.,10,0.005574136,Metabolism of cofactors and vitamins,Metabolism
+Butanoate metabolism,Polaromonas sp.,23,0.012820513,Carbohydrate metabolism,Metabolism
+C5-Branched dibasic acid metabolism,Polaromonas sp.,6,0.003344482,Carbohydrate metabolism,Metabolism
+Caprolactam degradation,Polaromonas sp.,3,0.001672241,Xenobiotics biodegradation and metabolism,Metabolism
+Carbapenem biosynthesis,Polaromonas sp.,2,0.001114827,Biosynthesis of other secondary metabolities,Metabolism
+Carbohydrate digestion and absorption,Polaromonas sp.,0,0,Digestive system,Organismal systems
+Carbon fixation in photosynthetic organisms,Polaromonas sp.,10,0.005574136,Energy metabolism,Metabolism
+Carbon fixation pathways in prokaryotes,Polaromonas sp.,23,0.012820513,Energy metabolism,Metabolism
+Carbon metabolism,Polaromonas sp.,72,0.040133779,Global metabolism,Metabolism
+Carotenoid biosynthesis,Polaromonas sp.,1,0.000557414,Metabolism of terpenoids and polyketides,Metabolism
+Cationic antimicrobial peptide (CAMP) resistance,Polaromonas sp.,9,0.005016722,Drug resistance,Human diseases
+Cell cycle - Caulobacter,Polaromonas sp.,11,0.00613155,Cell growth and death,Cellular processes
+Chloroalkane and chloroalkene degradation,Polaromonas sp.,5,0.002787068,Xenobiotics biodegradation and metabolism,Metabolism
+Chlorocyclohexane and chlorobenzene degradation,Polaromonas sp.,4,0.002229654,Xenobiotics biodegradation and metabolism,Metabolism
+Cholesterol metabolism,Polaromonas sp.,0,0,Digestive system,Organismal systems
+Citrate cycle (TCA cycle),Polaromonas sp.,19,0.010590858,Carbohydrate metabolism,Metabolism
+Cyanoamino acid metabolism,Polaromonas sp.,3,0.001672241,Amino acid metabolism,Metabolism
+Cysteine and methionine metabolism,Polaromonas sp.,23,0.012820513,Amino acid metabolism,Metabolism
+D-Alanine metabolism,Polaromonas sp.,2,0.001114827,Amino acid metabolism,Metabolism
+D-Glutamine and D-glutamate metabolism,Polaromonas sp.,4,0.002229654,Amino acid metabolism,Metabolism
+Degradation of aromatic compounds,Polaromonas sp.,5,0.002787068,Global metabolism,Metabolism
+Dioxin degradation,Polaromonas sp.,2,0.001114827,Xenobiotics biodegradation and metabolism,Metabolism
+DNA replication,Polaromonas sp.,14,0.00780379,Replication and repair,Genetic information processing
+Drug metabolism - cytochrome P450,Polaromonas sp.,2,0.001114827,Xenobiotics biodegradation and metabolism,Metabolism
+Drug metabolism - other enzymes,Polaromonas sp.,6,0.003344482,Xenobiotics biodegradation and metabolism,Metabolism
+Ether lipid metabolism,Polaromonas sp.,1,0.000557414,Lipid metabolism,Metabolism
+Ethylbenzene degradation,Polaromonas sp.,1,0.000557414,Xenobiotics biodegradation and metabolism,Metabolism
+Fatty acid biosynthesis,Polaromonas sp.,11,0.00613155,Lipid metabolism,Metabolism
+Fatty acid degradation,Polaromonas sp.,11,0.00613155,Lipid metabolism,Metabolism
+Fatty acid metabolism,Polaromonas sp.,20,0.011148272,Lipid metabolism,Metabolism
+Ferroptosis,Polaromonas sp.,1,0.000557414,Cell growth and death,Cellular processes
+Flagellar assembly,Polaromonas sp.,33,0.018394649,Cell motility,Cellular processes
+Fluorobenzoate degradation,Polaromonas sp.,1,0.000557414,Xenobiotics biodegradation and metabolism,Metabolism
+Folate biosynthesis,Polaromonas sp.,21,0.011705686,Metabolism of cofactors and vitamins,Metabolism
+Fructose and mannose metabolism,Polaromonas sp.,6,0.003344482,Carbohydrate metabolism,Metabolism
+Galactose metabolism,Polaromonas sp.,2,0.001114827,Carbohydrate metabolism,Metabolism
+Geraniol degradation,Polaromonas sp.,8,0.004459309,Metabolism of terpenoids and polyketides,Metabolism
+Glucosinolate biosynthesis,Polaromonas sp.,1,0.000557414,Biosynthesis of other secondary metabolities,Metabolism
+Glutathione metabolism,Polaromonas sp.,13,0.007246377,Amino acid metabolism,Metabolism
+Glycerolipid metabolism,Polaromonas sp.,7,0.003901895,Lipid metabolism,Metabolism
+Glycerophospholipid metabolism,Polaromonas sp.,13,0.007246377,Lipid metabolism,Metabolism
+"Glycine, serine and threonine metabolism",Polaromonas sp.,21,0.011705686,Amino acid metabolism,Metabolism
+Glycolysis/Gluconeogenesis,Polaromonas sp.,17,0.009476031,Carbohydrate metabolism,Metabolism
+Glycosaminoglycan degradation,Polaromonas sp.,1,0.000557414,Glycan biosynthesis and metabolism,Metabolism
+Glyoxylate and dicarboxylate metabolism,Polaromonas sp.,31,0.017279822,Carbohydrate metabolism,Metabolism
+Histidine metabolism,Polaromonas sp.,11,0.00613155,Amino acid metabolism,Metabolism
+Homologous recombination,Polaromonas sp.,17,0.009476031,Replication and repair,Genetic information processing
+Inositol phosphate metabolism,Polaromonas sp.,3,0.001672241,Carbohydrate metabolism,Metabolism
+Isoquinoline alkaloid biosynthesis,Polaromonas sp.,1,0.000557414,Biosynthesis of other secondary metabolities,Metabolism
+Limonene and pinene degradation,Polaromonas sp.,3,0.001672241,Metabolism of terpenoids and polyketides,Metabolism
+Linoleic acid metabolism,Polaromonas sp.,1,0.000557414,Lipid metabolism,Metabolism
+Lipoic acid metabolism,Polaromonas sp.,2,0.001114827,Metabolism of cofactors and vitamins,Metabolism
+Lipopolysaccharide biosynthesis,Polaromonas sp.,16,0.008918618,Glycan biosynthesis and metabolism,Metabolism
+Lysine biosynthesis,Polaromonas sp.,14,0.00780379,Amino acid metabolism,Metabolism
+Lysine degradation,Polaromonas sp.,8,0.004459309,Amino acid metabolism,Metabolism
+Metabolism of xenobiotics by cytochrome P450,Polaromonas sp.,2,0.001114827,Xenobiotics biodegradation and metabolism,Metabolism
+Methane metabolism,Polaromonas sp.,19,0.010590858,Energy metabolism,Metabolism
+Mineral absorption,Polaromonas sp.,1,0.000557414,Digestive system,Organismal systems
+Mismatch repair,Polaromonas sp.,15,0.008361204,Replication and repair,Genetic information processing
+Monobactam biosynthesis,Polaromonas sp.,7,0.003901895,Biosynthesis of other secondary metabolities,Metabolism
+Naphthalene degradation,Polaromonas sp.,4,0.002229654,Xenobiotics biodegradation and metabolism,Metabolism
+N-Glycan biosynthesis,Polaromonas sp.,0,0,Glycan biosynthesis and metabolism,Metabolism
+"Neomycin, kanamycin and gentamicin biosynthesis",Polaromonas sp.,0,0,Biosynthesis of other secondary metabolities,Metabolism
+Nicotinate and nicotinamide metabolism,Polaromonas sp.,12,0.006688963,Metabolism of cofactors and vitamins,Metabolism
+Nitrogen metabolism,Polaromonas sp.,13,0.007246377,Energy metabolism,Metabolism
+Nitrotoluene degradation,Polaromonas sp.,1,0.000557414,Xenobiotics biodegradation and metabolism,Metabolism
+Nonribosomal peptide structures,Polaromonas sp.,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Novobiocin biosynthesis,Polaromonas sp.,3,0.001672241,Biosynthesis of other secondary metabolities,Metabolism
+Nucleotide excision repair,Polaromonas sp.,8,0.004459309,Replication and repair,Genetic information processing
+One carbon pool by folate,Polaromonas sp.,12,0.006688963,Metabolism of cofactors and vitamins,Metabolism
+Other glycan degradation,Polaromonas sp.,0,0,Glycan biosynthesis and metabolism,Metabolism
+Oxidative phosphorylation,Polaromonas sp.,47,0.026198439,Energy metabolism,Metabolism
+Pantothenate and CoA biosynthesis,Polaromonas sp.,13,0.007246377,Metabolism of cofactors and vitamins,Metabolism
+Penicillin and cephalosporin biosynthesis,Polaromonas sp.,1,0.000557414,Biosynthesis of other secondary metabolities,Metabolism
+Pentose and glucuronate interconversions,Polaromonas sp.,3,0.001672241,Carbohydrate metabolism,Metabolism
+Pentose phosphate pathway,Polaromonas sp.,12,0.006688963,Carbohydrate metabolism,Metabolism
+Peptidoglycan biosynthesis,Polaromonas sp.,18,0.010033445,Glycan biosynthesis and metabolism,Metabolism
+Peroxisome,Polaromonas sp.,6,0.003344482,Transport and catabolism,Cellular processes
+Phenazine biosynthesis,Polaromonas sp.,2,0.001114827,Biosynthesis of other secondary metabolities,Metabolism
+Phenylalanine metabolism,Polaromonas sp.,10,0.005574136,Amino acid metabolism,Metabolism
+"Phenylalanine, tyrosine and tryptophan biosynthesis",Polaromonas sp.,18,0.010033445,Amino acid metabolism,Metabolism
+Phenylpropanoid biosynthesis,Polaromonas sp.,1,0.000557414,Biosynthesis of other secondary metabolities,Metabolism
+Phosphatidylinositol signaling system,Polaromonas sp.,3,0.001672241,Signal transduction,Environmental information processing
+Phosphonate and phosphinate metabolism,Polaromonas sp.,0,0,Amino acid metabolism,Metabolism
+Phosphotransferase system (PTS),Polaromonas sp.,3,0.001672241,Membrane transport,Environmental information processing
+Photosynthesis,Polaromonas sp.,8,0.004459309,Energy metabolism,Metabolism
+Polycyclic aromatic hydrocarbon degradation,Polaromonas sp.,1,0.000557414,Xenobiotics biodegradation and metabolism,Metabolism
+Polyketide sugar unit biosynthesis,Polaromonas sp.,4,0.002229654,Metabolism of terpenoids and polyketides,Metabolism
+Porphyrin and chlorophyll metabolism,Polaromonas sp.,25,0.01393534,Metabolism of cofactors and vitamins,Metabolism
+PPAR signaling pathway,Polaromonas sp.,4,0.002229654,Endocrine system,Organismal systems
+Primary bile acid biosynthesis,Polaromonas sp.,1,0.000557414,Lipid metabolism,Metabolism
+Prodigiosin biosynthesis,Polaromonas sp.,3,0.001672241,Biosynthesis of other secondary metabolities,Metabolism
+Propanoate metabolism,Polaromonas sp.,2,0.001114827,Carbohydrate metabolism,Metabolism
+Protein digestion and absorption,Polaromonas sp.,0,0,Digestive system,Organismal systems
+Protein export,Polaromonas sp.,15,0.008361204,"Folding, sorting and degredation",Genetic information processing
+Proximal tubule bicarbonate reclamation,Polaromonas sp.,1,0.000557414,Excretory system,Organismal systems
+Purine metabolism,Polaromonas sp.,41,0.022853958,Nucleotide metabolism,Metabolism
+Pyrimidine metabolism,Polaromonas sp.,21,0.011705686,Nucleotide metabolism,Metabolism
+Pyruvate metabolism,Polaromonas sp.,25,0.01393534,Carbohydrate metabolism,Metabolism
+Quorum sensing,Polaromonas sp.,41,0.022853958,Cellular community,Cellular processes
+Retinol metabolism,Polaromonas sp.,1,0.000557414,Metabolism of cofactors and vitamins,Metabolism
+Riboflavin metabolism,Polaromonas sp.,8,0.004459309,Metabolism of cofactors and vitamins,Metabolism
+Ribosome,Polaromonas sp.,42,0.023411371,Translation,Genetic information processing
+RNA degradation,Polaromonas sp.,14,0.00780379,"Folding, sorting and degredation",Genetic information processing
+RNA polymerase,Polaromonas sp.,3,0.001672241,Transcription,Genetic information processing
+RNA transport,Polaromonas sp.,2,0.001114827,Translation,Genetic information processing
+Selenocompound metabolism,Polaromonas sp.,9,0.005016722,Amino acid metabolism,Metabolism
+Sesquiterpenoid and triterpenoid biosynthesis,Polaromonas sp.,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Sphingolipid metabolism,Polaromonas sp.,0,0,Lipid metabolism,Metabolism
+Starch and sucrose metabolism,Polaromonas sp.,1,0.000557414,Carbohydrate metabolism,Metabolism
+Staurosporine biosynthesis,Polaromonas sp.,0,0,Biosynthesis of other secondary metabolities,Metabolism
+Steroid biosynthesis,Polaromonas sp.,0,0,Lipid metabolism,Metabolism
+Steroid degradation,Polaromonas sp.,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Streptomycin biosynthesis,Polaromonas sp.,5,0.002787068,Biosynthesis of other secondary metabolities,Metabolism
+Styrene degradation,Polaromonas sp.,3,0.001672241,Xenobiotics biodegradation and metabolism,Metabolism
+Sulfur metabolism,Polaromonas sp.,28,0.015607581,Energy metabolism,Metabolism
+Sulfur relay system,Polaromonas sp.,10,0.005574136,"Folding, sorting and degredation",Genetic information processing
+Synthesis and degradation of ketone bodies,Polaromonas sp.,5,0.002787068,Lipid metabolism,Metabolism
+Taurine and hypotaurine metabolism,Polaromonas sp.,1,0.000557414,Amino acid metabolism,Metabolism
+Terpenoid backbone biosynthesis,Polaromonas sp.,12,0.006688963,Metabolism of terpenoids and polyketides,Metabolism
+Thermogenesis,Polaromonas sp.,7,0.003901895,Environmental adaptation,Organismal systems
+Thiamine metabolism,Polaromonas sp.,10,0.005574136,Metabolism of cofactors and vitamins,Metabolism
+Thyroid hormone synthesis,Polaromonas sp.,2,0.001114827,Endocrine system,Organismal systems
+Toluene degradation,Polaromonas sp.,1,0.000557414,Xenobiotics biodegradation and metabolism,Metabolism
+"Tropane, piperidine and pyridine alkaloid biosynthesis",Polaromonas sp.,2,0.001114827,Biosynthesis of other secondary metabolities,Metabolism
+Tryptophan metabolism,Polaromonas sp.,9,0.005016722,Amino acid metabolism,Metabolism
+Two-component system,Polaromonas sp.,75,0.04180602,Signal transduction,Environmental information processing
+Tyrosine metabolism,Polaromonas sp.,7,0.003901895,Amino acid metabolism,Metabolism
+Ubiquinone and other terpenoid-quinone biosynthesis,Polaromonas sp.,5,0.002787068,Metabolism of cofactors and vitamins,Metabolism
+"Valine, leucine and isoleucine biosynthesis",Polaromonas sp.,9,0.005016722,Amino acid metabolism,Metabolism
+"Valine, leucine and isoleucine degradation",Polaromonas sp.,22,0.012263099,Amino acid metabolism,Metabolism
+Vancomycin resistance,Polaromonas sp.,5,0.002787068,Drug resistance,Human diseases
+Various types of N-glycan biosynthesis,Polaromonas sp.,0,0,Glycan biosynthesis and metabolism,Metabolism
+Vitamin B6 metabolism,Polaromonas sp.,5,0.002787068,Metabolism of cofactors and vitamins,Metabolism
+Xylene degradation,Polaromonas sp.,1,0.000557414,Xenobiotics biodegradation and metabolism,Metabolism
+Zeatin biosynthesis,Polaromonas sp.,1,0.000557414,Metabolism of terpenoids and polyketides,Metabolism
+2-oxocarboxylic acid metabolism,Unknown Burkholderiaceae,20,0.012714558,Global metabolism,Metabolism
+ABC transporters,Unknown Burkholderiaceae,58,0.036872219,Membrane transport,Environmental information processing
+Acarbose and validamycin biosynthesis,Unknown Burkholderiaceae,2,0.001271456,Biosynthesis of other secondary metabolities,Metabolism
+"Alanine, aspartate and glutamate metabolism",Unknown Burkholderiaceae,21,0.013350286,Amino acid metabolism,Metabolism
+alpha-Linolenic acid metabolism,Unknown Burkholderiaceae,1,0.000635728,Lipid metabolism,Metabolism
+Amino sugar and nucleotide sugar metabolism,Unknown Burkholderiaceae,25,0.015893198,Carbohydrate metabolism,Metabolism
+Aminoacyl-tRNA biosynthesis,Unknown Burkholderiaceae,25,0.015893198,Translation,Genetic information processing
+Aminobenzoate degradation,Unknown Burkholderiaceae,2,0.001271456,Xenobiotics biodegradation and metabolism,Metabolism
+AMPK signaling pathway,Unknown Burkholderiaceae,3,0.001907184,Signal transduction,Environmental information processing
+Antifolate resistance,Unknown Burkholderiaceae,5,0.00317864,Drug resistance,Human diseases
+Arachidonic acid metabolism,Unknown Burkholderiaceae,1,0.000635728,Lipid metabolism,Metabolism
+Arginine and proline metabolism,Unknown Burkholderiaceae,9,0.005721551,Amino acid metabolism,Metabolism
+Arginine biosynthesis,Unknown Burkholderiaceae,16,0.010171647,Amino acid metabolism,Metabolism
+Ascorbate and aldarate metabolism,Unknown Burkholderiaceae,1,0.000635728,Carbohydrate metabolism,Metabolism
+Atrazine degradation,Unknown Burkholderiaceae,3,0.001907184,Xenobiotics biodegradation and metabolism,Metabolism
+Bacterial chemotaxis,Unknown Burkholderiaceae,1,0.000635728,Cell motility,Cellular processes
+Bacterial secretion system,Unknown Burkholderiaceae,27,0.017164654,Membrane transport,Environmental information processing
+Base excision repair,Unknown Burkholderiaceae,10,0.006357279,Replication and repair,Genetic information processing
+Benzoate degradation,Unknown Burkholderiaceae,6,0.003814367,Xenobiotics biodegradation and metabolism,Metabolism
+beta-Alanine metabolism,Unknown Burkholderiaceae,5,0.00317864,Amino acid metabolism,Metabolism
+beta-Lactam resistance,Unknown Burkholderiaceae,9,0.005721551,Drug resistance,Human diseases
+Biofilm formation - Escherichia coli,Unknown Burkholderiaceae,4,0.002542912,Cellular community,Cellular processes
+Biofilm formation - Pseudomonas aeruginosa,Unknown Burkholderiaceae,4,0.002542912,Cellular community,Cellular processes
+Biofilm formation - Vibrio cholerae,Unknown Burkholderiaceae,4,0.002542912,Cellular community,Cellular processes
+Biosynthesis of amino acids,Unknown Burkholderiaceae,90,0.057215512,Global metabolism,Metabolism
+Biosynthesis of ansamycins,Unknown Burkholderiaceae,1,0.000635728,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of antibiotics,Unknown Burkholderiaceae,146,0.092816275,Global metabolism,Metabolism
+Biosynthesis of type II polyketide products,Unknown Burkholderiaceae,1,0.000635728,Metabolism of terpenoids and polyketides,Metabolism
+Biosynthesis of unsaturated fatty acids,Unknown Burkholderiaceae,1,0.000635728,Lipid metabolism,Metabolism
+Biosynthesis of vancomycin group antibiotics,Unknown Burkholderiaceae,1,0.000635728,Metabolism of terpenoids and polyketides,Metabolism
+Biotin metabolism,Unknown Burkholderiaceae,7,0.004450095,Metabolism of cofactors and vitamins,Metabolism
+Butanoate metabolism,Unknown Burkholderiaceae,14,0.008900191,Carbohydrate metabolism,Metabolism
+C5-Branched dibasic acid metabolism,Unknown Burkholderiaceae,7,0.004450095,Carbohydrate metabolism,Metabolism
+Caprolactam degradation,Unknown Burkholderiaceae,1,0.000635728,Xenobiotics biodegradation and metabolism,Metabolism
+Carbapenem biosynthesis,Unknown Burkholderiaceae,2,0.001271456,Biosynthesis of other secondary metabolities,Metabolism
+Carbohydrate digestion and absorption,Unknown Burkholderiaceae,1,0.000635728,Digestive system,Organismal systems
+Carbon fixation in photosynthetic organisms,Unknown Burkholderiaceae,10,0.006357279,Energy metabolism,Metabolism
+Carbon fixation pathways in prokaryotes,Unknown Burkholderiaceae,22,0.013986014,Energy metabolism,Metabolism
+Carbon metabolism,Unknown Burkholderiaceae,65,0.041322314,Global metabolism,Metabolism
+Carotenoid biosynthesis,Unknown Burkholderiaceae,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Cationic antimicrobial peptide (CAMP) resistance,Unknown Burkholderiaceae,7,0.004450095,Drug resistance,Human diseases
+Cell cycle - Caulobacter,Unknown Burkholderiaceae,11,0.006993007,Cell growth and death,Cellular processes
+Chloroalkane and chloroalkene degradation,Unknown Burkholderiaceae,1,0.000635728,Xenobiotics biodegradation and metabolism,Metabolism
+Chlorocyclohexane and chlorobenzene degradation,Unknown Burkholderiaceae,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Cholesterol metabolism,Unknown Burkholderiaceae,0,0,Digestive system,Organismal systems
+Citrate cycle (TCA cycle),Unknown Burkholderiaceae,17,0.010807374,Carbohydrate metabolism,Metabolism
+Cyanoamino acid metabolism,Unknown Burkholderiaceae,3,0.001907184,Amino acid metabolism,Metabolism
+Cysteine and methionine metabolism,Unknown Burkholderiaceae,21,0.013350286,Amino acid metabolism,Metabolism
+D-Alanine metabolism,Unknown Burkholderiaceae,2,0.001271456,Amino acid metabolism,Metabolism
+D-Glutamine and D-glutamate metabolism,Unknown Burkholderiaceae,4,0.002542912,Amino acid metabolism,Metabolism
+Degradation of aromatic compounds,Unknown Burkholderiaceae,4,0.002542912,Global metabolism,Metabolism
+Dioxin degradation,Unknown Burkholderiaceae,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+DNA replication,Unknown Burkholderiaceae,15,0.009535919,Replication and repair,Genetic information processing
+Drug metabolism - cytochrome P450,Unknown Burkholderiaceae,2,0.001271456,Xenobiotics biodegradation and metabolism,Metabolism
+Drug metabolism - other enzymes,Unknown Burkholderiaceae,7,0.004450095,Xenobiotics biodegradation and metabolism,Metabolism
+Ether lipid metabolism,Unknown Burkholderiaceae,0,0,Lipid metabolism,Metabolism
+Ethylbenzene degradation,Unknown Burkholderiaceae,1,0.000635728,Xenobiotics biodegradation and metabolism,Metabolism
+Fatty acid biosynthesis,Unknown Burkholderiaceae,12,0.007628735,Lipid metabolism,Metabolism
+Fatty acid degradation,Unknown Burkholderiaceae,7,0.004450095,Lipid metabolism,Metabolism
+Fatty acid metabolism,Unknown Burkholderiaceae,17,0.010807374,Lipid metabolism,Metabolism
+Ferroptosis,Unknown Burkholderiaceae,1,0.000635728,Cell growth and death,Cellular processes
+Flagellar assembly,Unknown Burkholderiaceae,0,0,Cell motility,Cellular processes
+Fluorobenzoate degradation,Unknown Burkholderiaceae,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Folate biosynthesis,Unknown Burkholderiaceae,16,0.010171647,Metabolism of cofactors and vitamins,Metabolism
+Fructose and mannose metabolism,Unknown Burkholderiaceae,9,0.005721551,Carbohydrate metabolism,Metabolism
+Galactose metabolism,Unknown Burkholderiaceae,10,0.006357279,Carbohydrate metabolism,Metabolism
+Geraniol degradation,Unknown Burkholderiaceae,2,0.001271456,Metabolism of terpenoids and polyketides,Metabolism
+Glucosinolate biosynthesis,Unknown Burkholderiaceae,1,0.000635728,Biosynthesis of other secondary metabolities,Metabolism
+Glutathione metabolism,Unknown Burkholderiaceae,10,0.006357279,Amino acid metabolism,Metabolism
+Glycerolipid metabolism,Unknown Burkholderiaceae,5,0.00317864,Lipid metabolism,Metabolism
+Glycerophospholipid metabolism,Unknown Burkholderiaceae,12,0.007628735,Lipid metabolism,Metabolism
+"Glycine, serine and threonine metabolism",Unknown Burkholderiaceae,20,0.012714558,Amino acid metabolism,Metabolism
+Glycolysis/Gluconeogenesis,Unknown Burkholderiaceae,21,0.013350286,Carbohydrate metabolism,Metabolism
+Glycosaminoglycan degradation,Unknown Burkholderiaceae,1,0.000635728,Glycan biosynthesis and metabolism,Metabolism
+Glyoxylate and dicarboxylate metabolism,Unknown Burkholderiaceae,15,0.009535919,Carbohydrate metabolism,Metabolism
+Histidine metabolism,Unknown Burkholderiaceae,10,0.006357279,Amino acid metabolism,Metabolism
+Homologous recombination,Unknown Burkholderiaceae,18,0.011443102,Replication and repair,Genetic information processing
+Inositol phosphate metabolism,Unknown Burkholderiaceae,3,0.001907184,Carbohydrate metabolism,Metabolism
+Isoquinoline alkaloid biosynthesis,Unknown Burkholderiaceae,1,0.000635728,Biosynthesis of other secondary metabolities,Metabolism
+Limonene and pinene degradation,Unknown Burkholderiaceae,1,0.000635728,Metabolism of terpenoids and polyketides,Metabolism
+Linoleic acid metabolism,Unknown Burkholderiaceae,0,0,Lipid metabolism,Metabolism
+Lipoic acid metabolism,Unknown Burkholderiaceae,2,0.001271456,Metabolism of cofactors and vitamins,Metabolism
+Lipopolysaccharide biosynthesis,Unknown Burkholderiaceae,14,0.008900191,Glycan biosynthesis and metabolism,Metabolism
+Lysine biosynthesis,Unknown Burkholderiaceae,13,0.008264463,Amino acid metabolism,Metabolism
+Lysine degradation,Unknown Burkholderiaceae,6,0.003814367,Amino acid metabolism,Metabolism
+Metabolism of xenobiotics by cytochrome P450,Unknown Burkholderiaceae,2,0.001271456,Xenobiotics biodegradation and metabolism,Metabolism
+Methane metabolism,Unknown Burkholderiaceae,16,0.010171647,Energy metabolism,Metabolism
+Mineral absorption,Unknown Burkholderiaceae,0,0,Digestive system,Organismal systems
+Mismatch repair,Unknown Burkholderiaceae,17,0.010807374,Replication and repair,Genetic information processing
+Monobactam biosynthesis,Unknown Burkholderiaceae,6,0.003814367,Biosynthesis of other secondary metabolities,Metabolism
+Naphthalene degradation,Unknown Burkholderiaceae,1,0.000635728,Xenobiotics biodegradation and metabolism,Metabolism
+N-Glycan biosynthesis,Unknown Burkholderiaceae,0,0,Glycan biosynthesis and metabolism,Metabolism
+"Neomycin, kanamycin and gentamicin biosynthesis",Unknown Burkholderiaceae,2,0.001271456,Biosynthesis of other secondary metabolities,Metabolism
+Nicotinate and nicotinamide metabolism,Unknown Burkholderiaceae,10,0.006357279,Metabolism of cofactors and vitamins,Metabolism
+Nitrogen metabolism,Unknown Burkholderiaceae,10,0.006357279,Energy metabolism,Metabolism
+Nitrotoluene degradation,Unknown Burkholderiaceae,2,0.001271456,Xenobiotics biodegradation and metabolism,Metabolism
+Nonribosomal peptide structures,Unknown Burkholderiaceae,1,0.000635728,Metabolism of terpenoids and polyketides,Metabolism
+Novobiocin biosynthesis,Unknown Burkholderiaceae,3,0.001907184,Biosynthesis of other secondary metabolities,Metabolism
+Nucleotide excision repair,Unknown Burkholderiaceae,8,0.005085823,Replication and repair,Genetic information processing
+One carbon pool by folate,Unknown Burkholderiaceae,10,0.006357279,Metabolism of cofactors and vitamins,Metabolism
+Other glycan degradation,Unknown Burkholderiaceae,0,0,Glycan biosynthesis and metabolism,Metabolism
+Oxidative phosphorylation,Unknown Burkholderiaceae,36,0.022886205,Energy metabolism,Metabolism
+Pantothenate and CoA biosynthesis,Unknown Burkholderiaceae,10,0.006357279,Metabolism of cofactors and vitamins,Metabolism
+Penicillin and cephalosporin biosynthesis,Unknown Burkholderiaceae,0,0,Biosynthesis of other secondary metabolities,Metabolism
+Pentose and glucuronate interconversions,Unknown Burkholderiaceae,4,0.002542912,Carbohydrate metabolism,Metabolism
+Pentose phosphate pathway,Unknown Burkholderiaceae,14,0.008900191,Carbohydrate metabolism,Metabolism
+Peptidoglycan biosynthesis,Unknown Burkholderiaceae,15,0.009535919,Glycan biosynthesis and metabolism,Metabolism
+Peroxisome,Unknown Burkholderiaceae,3,0.001907184,Transport and catabolism,Cellular processes
+Phenazine biosynthesis,Unknown Burkholderiaceae,2,0.001271456,Biosynthesis of other secondary metabolities,Metabolism
+Phenylalanine metabolism,Unknown Burkholderiaceae,5,0.00317864,Amino acid metabolism,Metabolism
+"Phenylalanine, tyrosine and tryptophan biosynthesis",Unknown Burkholderiaceae,18,0.011443102,Amino acid metabolism,Metabolism
+Phenylpropanoid biosynthesis,Unknown Burkholderiaceae,2,0.001271456,Biosynthesis of other secondary metabolities,Metabolism
+Phosphatidylinositol signaling system,Unknown Burkholderiaceae,3,0.001907184,Signal transduction,Environmental information processing
+Phosphonate and phosphinate metabolism,Unknown Burkholderiaceae,0,0,Amino acid metabolism,Metabolism
+Phosphotransferase system (PTS),Unknown Burkholderiaceae,3,0.001907184,Membrane transport,Environmental information processing
+Photosynthesis,Unknown Burkholderiaceae,8,0.005085823,Energy metabolism,Metabolism
+Polycyclic aromatic hydrocarbon degradation,Unknown Burkholderiaceae,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Polyketide sugar unit biosynthesis,Unknown Burkholderiaceae,4,0.002542912,Metabolism of terpenoids and polyketides,Metabolism
+Porphyrin and chlorophyll metabolism,Unknown Burkholderiaceae,12,0.007628735,Metabolism of cofactors and vitamins,Metabolism
+PPAR signaling pathway,Unknown Burkholderiaceae,4,0.002542912,Endocrine system,Organismal systems
+Primary bile acid biosynthesis,Unknown Burkholderiaceae,0,0,Lipid metabolism,Metabolism
+Prodigiosin biosynthesis,Unknown Burkholderiaceae,3,0.001907184,Biosynthesis of other secondary metabolities,Metabolism
+Propanoate metabolism,Unknown Burkholderiaceae,16,0.010171647,Carbohydrate metabolism,Metabolism
+Protein digestion and absorption,Unknown Burkholderiaceae,0,0,Digestive system,Organismal systems
+Protein export,Unknown Burkholderiaceae,16,0.010171647,"Folding, sorting and degredation",Genetic information processing
+Proximal tubule bicarbonate reclamation,Unknown Burkholderiaceae,2,0.001271456,Excretory system,Organismal systems
+Purine metabolism,Unknown Burkholderiaceae,37,0.023521933,Nucleotide metabolism,Metabolism
+Pyrimidine metabolism,Unknown Burkholderiaceae,23,0.014621742,Nucleotide metabolism,Metabolism
+Pyruvate metabolism,Unknown Burkholderiaceae,23,0.014621742,Carbohydrate metabolism,Metabolism
+Quorum sensing,Unknown Burkholderiaceae,24,0.01525747,Cellular community,Cellular processes
+Retinol metabolism,Unknown Burkholderiaceae,1,0.000635728,Metabolism of cofactors and vitamins,Metabolism
+Riboflavin metabolism,Unknown Burkholderiaceae,5,0.00317864,Metabolism of cofactors and vitamins,Metabolism
+Ribosome,Unknown Burkholderiaceae,52,0.033057851,Translation,Genetic information processing
+RNA degradation,Unknown Burkholderiaceae,14,0.008900191,"Folding, sorting and degredation",Genetic information processing
+RNA polymerase,Unknown Burkholderiaceae,4,0.002542912,Transcription,Genetic information processing
+RNA transport,Unknown Burkholderiaceae,1,0.000635728,Translation,Genetic information processing
+Selenocompound metabolism,Unknown Burkholderiaceae,6,0.003814367,Amino acid metabolism,Metabolism
+Sesquiterpenoid and triterpenoid biosynthesis,Unknown Burkholderiaceae,0,0,Metabolism of terpenoids and polyketides,Metabolism
+Sphingolipid metabolism,Unknown Burkholderiaceae,0,0,Lipid metabolism,Metabolism
+Starch and sucrose metabolism,Unknown Burkholderiaceae,8,0.005085823,Carbohydrate metabolism,Metabolism
+Staurosporine biosynthesis,Unknown Burkholderiaceae,1,0.000635728,Biosynthesis of other secondary metabolities,Metabolism
+Steroid biosynthesis,Unknown Burkholderiaceae,0,0,Lipid metabolism,Metabolism
+Steroid degradation,Unknown Burkholderiaceae,1,0.000635728,Xenobiotics biodegradation and metabolism,Metabolism
+Streptomycin biosynthesis,Unknown Burkholderiaceae,8,0.005085823,Biosynthesis of other secondary metabolities,Metabolism
+Styrene degradation,Unknown Burkholderiaceae,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Sulfur metabolism,Unknown Burkholderiaceae,10,0.006357279,Energy metabolism,Metabolism
+Sulfur relay system,Unknown Burkholderiaceae,9,0.005721551,"Folding, sorting and degredation",Genetic information processing
+Synthesis and degradation of ketone bodies,Unknown Burkholderiaceae,4,0.002542912,Lipid metabolism,Metabolism
+Taurine and hypotaurine metabolism,Unknown Burkholderiaceae,3,0.001907184,Amino acid metabolism,Metabolism
+Terpenoid backbone biosynthesis,Unknown Burkholderiaceae,12,0.007628735,Metabolism of terpenoids and polyketides,Metabolism
+Thermogenesis,Unknown Burkholderiaceae,4,0.002542912,Environmental adaptation,Organismal systems
+Thiamine metabolism,Unknown Burkholderiaceae,7,0.004450095,Metabolism of cofactors and vitamins,Metabolism
+Thyroid hormone synthesis,Unknown Burkholderiaceae,1,0.000635728,Endocrine system,Organismal systems
+Toluene degradation,Unknown Burkholderiaceae,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+"Tropane, piperidine and pyridine alkaloid biosynthesis",Unknown Burkholderiaceae,2,0.001271456,Biosynthesis of other secondary metabolities,Metabolism
+Tryptophan metabolism,Unknown Burkholderiaceae,5,0.00317864,Amino acid metabolism,Metabolism
+Two-component system,Unknown Burkholderiaceae,45,0.028607756,Signal transduction,Environmental information processing
+Tyrosine metabolism,Unknown Burkholderiaceae,5,0.00317864,Amino acid metabolism,Metabolism
+Ubiquinone and other terpenoid-quinone biosynthesis,Unknown Burkholderiaceae,7,0.004450095,Metabolism of cofactors and vitamins,Metabolism
+"Valine, leucine and isoleucine biosynthesis",Unknown Burkholderiaceae,10,0.006357279,Amino acid metabolism,Metabolism
+"Valine, leucine and isoleucine degradation",Unknown Burkholderiaceae,9,0.005721551,Amino acid metabolism,Metabolism
+Vancomycin resistance,Unknown Burkholderiaceae,5,0.00317864,Drug resistance,Human diseases
+Various types of N-glycan biosynthesis,Unknown Burkholderiaceae,0,0,Glycan biosynthesis and metabolism,Metabolism
+Vitamin B6 metabolism,Unknown Burkholderiaceae,5,0.00317864,Metabolism of cofactors and vitamins,Metabolism
+Xylene degradation,Unknown Burkholderiaceae,0,0,Xenobiotics biodegradation and metabolism,Metabolism
+Zeatin biosynthesis,Unknown Burkholderiaceae,1,0.000635728,Metabolism of terpenoids and polyketides,Metabolism

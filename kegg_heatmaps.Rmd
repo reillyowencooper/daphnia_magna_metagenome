@@ -1,0 +1,432 @@
+---
+title: "kegg_pathway_heatmap"
+author: "Reilly Cooper"
+date: "2/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(tidyverse)
+library(gridExtra)
+library(ggpubr)
+library(forcats)
+```
+
+```{r}
+kegg <- read.csv("/Users/work/Desktop/mag_paper/for_heatmap_long_format.csv", header = F)
+colnames(kegg) <- c("Pathway", "MAG", "num_genes", "proportion_total", "Subtype", "Type")
+```
+
+```{r}
+amino_acid_metabolism <- ggplot(subset(kegg, Subtype == "Amino acid metabolism"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1), axis.text = element_text(size = 24))
+
+secondary_metabolism <- ggplot(subset(kegg, Subtype == "Biosynthesis of other secondary metabolities"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+carbohydrate_metabolism <- ggplot(subset(kegg, Subtype == "Carbohydrate metabolism"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1), axis.text = element_text(size = 24))
+
+energy_metabolism <- ggplot(subset(kegg, Subtype == "Energy metabolism"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+glycan_metabolism <- ggplot(subset(kegg, Subtype == "Glycan biosynthesis and metabolism"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+lipid_metabolism <- ggplot(subset(kegg, Subtype == "Lipid metabolism"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+vitamin_metabolism <- ggplot(subset(kegg, Subtype == "Metabolism of cofactors and vitamins"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+terpenoid_metabolism <- ggplot(subset(kegg, Subtype == "Metabolism of terpenoids and polyketides"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+nucleotide_metabolism <- ggplot(subset(kegg, Subtype == "Nucleotide metabolism"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+xenobiotic_metabolism <- ggplot(subset(kegg, Subtype == "Xenobiotics biodegradation and metabolism"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+env_info <- ggplot(subset(kegg, Type == "Environmental information processing"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+gene_info <- ggplot(subset(kegg, Type == "Genetic information processing"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+cell_process <- ggplot(subset(kegg, Type == "Cellular processes"), aes(MAG, fct_rev(Pathway), fill = num_genes)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+org_processing <- ggplot(subset(kegg, Type == "Organismal systems"), aes(MAG, fct_rev(Pathway), fill = num_genes)) +
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+resistance <- ggplot(subset(kegg, Type == "Human diseases"), aes(MAG, fct_rev(Pathway), fill = num_genes)) +
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+a1 <- amino_acid_metabolism + theme(axis.title.y = element_blank()) 
+ggsave("aa_met_pdf_for_fig.pdf", a1, units="in", width=12, height=12, dpi=300)
+secondary_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Biosynthesis of other secondary metabolities")
+ggsave("secondary_genes.png")
+a2 <- carbohydrate_metabolism + theme(axis.title.y = element_blank()) 
+ggsave("carb_met_pdf_for_fig.pdf", a2, units="in", width=12, height=12, dpi=300)
+energy_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Energy metabolism")
+ggsave("energy_genes.png")
+glycan_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Glycan biosynthesis and metabolism")
+ggsave("glycan_genes.png")
+lipid_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Lipid metabolism")
+ggsave("lipid_genes.png")
+vitamin_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Metabolism of cofactors and vitamins")
+ggsave("vitamin_genes.png")
+terpenoid_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Metabolism of terpenoids and polyketides")
+ggsave("terp_genes.png")
+nucleotide_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Nucleotide metabolism")
+ggsave("nuc_genes.png")
+xenobiotic_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Xenobiotics biodegradation and metabolism")
+ggsave("xeno_genes.png")
+env_info + theme(axis.title.y = element_blank()) + ggtitle("Environmental information processing")
+ggsave("envinfo_genes.png")
+gene_info + theme(axis.title.y = element_blank()) + ggtitle("Genetic information processing")
+ggsave("geneinfo_genes.png")
+cell_process + theme(axis.title.y = element_blank()) + ggtitle("Cellular processes")
+ggsave("cellprocess_genes.png")
+org_processing + theme(axis.title.y = element_blank()) + ggtitle("Organismal processes")
+ggsave("orgprocess_genes.png")
+resistance + theme(axis.title.y = element_blank()) + ggtitle("Human diseases and resistance")
+ggsave("resistance_genes.png")
+```
+```{r}
+amino_acid_metabolism <- ggplot(subset(kegg, Subtype == "Amino acid metabolism"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+secondary_metabolism <- ggplot(subset(kegg, Subtype == "Biosynthesis of other secondary metabolities"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+carbohydrate_metabolism <- ggplot(subset(kegg, Subtype == "Carbohydrate metabolism"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+energy_metabolism <- ggplot(subset(kegg, Subtype == "Energy metabolism"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+glycan_metabolism <- ggplot(subset(kegg, Subtype == "Glycan biosynthesis and metabolism"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+lipid_metabolism <- ggplot(subset(kegg, Subtype == "Lipid metabolism"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+vitamin_metabolism <- ggplot(subset(kegg, Subtype == "Metabolism of cofactors and vitamins"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+terpenoid_metabolism <- ggplot(subset(kegg, Subtype == "Metabolism of terpenoids and polyketides"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+nucleotide_metabolism <- ggplot(subset(kegg, Subtype == "Nucleotide metabolism"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+xenobiotic_metabolism <- ggplot(subset(kegg, Subtype == "Xenobiotics biodegradation and metabolism"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+env_info <- ggplot(subset(kegg, Type == "Environmental information processing"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+gene_info <- ggplot(subset(kegg, Type == "Genetic information processing"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+cell_process <- ggplot(subset(kegg, Type == "Cellular processes"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) + 
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+org_processing <- ggplot(subset(kegg, Type == "Organismal systems"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) +
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+resistance <- ggplot(subset(kegg, Type == "Human diseases"), aes(MAG, fct_rev(Pathway), fill = proportion_total)) +
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+amino_acid_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Amino acid metabolism")
+ggsave("amino_prop.png")
+secondary_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Biosynthesis of other secondary metabolities")
+ggsave("secondary_prop.png")
+carbohydrate_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Carbohydrate metabolism")
+ggsave("carb_prop.png")
+energy_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Energy metabolism")
+ggsave("energy_prop.png")
+glycan_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Glycan biosynthesis and metabolism")
+ggsave("glycan_prop.png")
+lipid_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Lipid metabolism")
+ggsave("lipid_prop.png")
+vitamin_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Metabolism of cofactors and vitamins")
+ggsave("vitamin_prop.png")
+terpenoid_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Metabolism of terpenoids and polyketides")
+ggsave("terp_prop.png")
+nucleotide_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Nucleotide metabolism")
+ggsave("nuc_prop.png")
+xenobiotic_metabolism + theme(axis.title.y = element_blank()) + ggtitle("Xenobiotics biodegradation and metabolism")
+ggsave("xeno_prop.png")
+env_info + theme(axis.title.y = element_blank()) + ggtitle("Environmental information processing")
+ggsave("envinfo_prop.png")
+gene_info + theme(axis.title.y = element_blank()) + ggtitle("Genetic information processing")
+ggsave("geneinfo_prop.png")
+cell_process + theme(axis.title.y = element_blank()) + ggtitle("Cellular processes")
+ggsave("cellprocess_prop.png")
+org_processing + theme(axis.title.y = element_blank()) + ggtitle("Organismal processes")
+ggsave("orgprocess_prop.png")
+resistance + theme(axis.title.y = element_blank()) + ggtitle("Human diseases and resistance")
+ggsave("resistance_prop.png")
+```
+
+```{r}
+amino_l1 <- subset(kegg, Subtype == "Amino acid metabolism" & MAG == "Limnohabitans sp. 1")
+amino_l2 <- subset(kegg, Subtype == "Amino acid metabolism" & MAG == "Limnohabitans sp. 2")
+amino_burk <- subset(kegg, Subtype == "Amino acid metabolism" & MAG == "Unknown Burkholderiaceae")
+amino_pedo <- subset(kegg, Subtype == "Amino acid metabolism" & MAG == "Pedobacter sp.")
+amino_polaro <- subset(kegg, Subtype == "Amino acid metabolism" & MAG == "Polaromonas sp.")
+
+secondary_l1 <- subset(kegg, Subtype == "Biosynthesis of other secondary metabolities" & MAG == "Limnohabitans sp. 1")
+secondary_l2 <- subset(kegg, Subtype == "Biosynthesis of other secondary metabolities" & MAG == "Limnohabitans sp. 2")
+secondary_burk <- subset(kegg, Subtype == "Biosynthesis of other secondary metabolities" & MAG == "Unknown Burkholderiaceae")
+secondary_pedo <- subset(kegg, Subtype == "Biosynthesis of other secondary metabolities" & MAG == "Pedobacter sp.")
+secondary_polaro <- subset(kegg, Subtype == "Biosynthesis of other secondary metabolities" & MAG == "Polaromonas sp.")
+
+carb_l1 <- subset(kegg, Subtype == "Carbohydrate metabolism" & MAG == "Limnohabitans sp. 1")
+carb_l2 <- subset(kegg, Subtype == "Carbohydrate metabolism" & MAG == "Limnohabitans sp. 2")
+carb_burk <- subset(kegg, Subtype == "Carbohydrate metabolism" & MAG == "Unknown Burkholderiaceae")
+carb_pedo <- subset(kegg, Subtype == "Carbohydrate metabolism" & MAG == "Pedobacter sp.")
+carb_polaro <- subset(kegg, Subtype == "Carbohydrate metabolism" & MAG == "Polaromonas sp.")
+
+energy_l1 <- subset(kegg, Subtype == "Energy metabolism" & MAG == "Limnohabitans sp. 1")
+energy_l2 <- subset(kegg, Subtype == "Energy metabolism" & MAG == "Limnohabitans sp. 2")
+energy_burk <- subset(kegg, Subtype == "Energy metabolism" & MAG == "Unknown Burkholderiaceae")
+energy_pedo <- subset(kegg, Subtype == "Energy metabolism" & MAG == "Pedobacter sp.")
+energy_polaro <- subset(kegg, Subtype == "Energy metabolism" & MAG == "Polaromonas sp.")
+
+glycan_l1 <- subset(kegg, Subtype == "Glycan biosynthesis and metabolism" & MAG == "Limnohabitans sp. 1")
+glycan_l2 <- subset(kegg, Subtype == "Glycan biosynthesis and metabolism" & MAG == "Limnohabitans sp. 2")
+glycan_burk <- subset(kegg, Subtype == "Glycan biosynthesis and metabolism" & MAG == "Unknown Burkholderiaceae")
+glycan_pedo <- subset(kegg, Subtype == "Glycan biosynthesis and metabolism" & MAG == "Pedobacter sp.")
+glycan_polaro <- subset(kegg, Subtype == "Glycan biosynthesis and metabolism" & MAG == "Polaromonas sp.")
+
+lipid_l1 <- subset(kegg, Subtype == "Lipid metabolism" & MAG == "Limnohabitans sp. 1")
+lipid_l2 <- subset(kegg, Subtype == "Lipid metabolism" & MAG == "Limnohabitans sp. 2")
+lipid_burk <- subset(kegg, Subtype == "Lipid metabolism" & MAG == "Unknown Burkholderiaceae")
+lipid_pedo <- subset(kegg, Subtype == "Lipid metabolism" & MAG == "Pedobacter sp.")
+lipid_polaro <- subset(kegg, Subtype == "Lipid metabolism" & MAG == "Polaromonas sp.")
+
+vitamin_l1 <- subset(kegg, Subtype == "Metabolism of cofactors and vitamins" & MAG == "Limnohabitans sp. 1")
+vitamin_l2 <- subset(kegg, Subtype == "Metabolism of cofactors and vitamins" & MAG == "Limnohabitans sp. 2")
+vitamin_burk <- subset(kegg, Subtype == "Metabolism of cofactors and vitamins" & MAG == "Unknown Burkholderiaceae")
+vitamin_pedo <- subset(kegg, Subtype == "Metabolism of cofactors and vitamins" & MAG == "Pedobacter sp.")
+vitamin_polaro <- subset(kegg, Subtype == "Metabolism of cofactors and vitamins" & MAG == "Polaromonas sp.")
+
+terp_l1 <- subset(kegg, Subtype == "Metabolism of terpenoids and polyketides" & MAG == "Limnohabitans sp. 1")
+terp_l2 <- subset(kegg, Subtype == "Metabolism of terpenoids and polyketides" & MAG == "Limnohabitans sp. 2")
+terp_burk <- subset(kegg, Subtype == "Metabolism of terpenoids and polyketides" & MAG == "Unknown Burkholderiaceae")
+terp_pedo <- subset(kegg, Subtype == "Metabolism of terpenoids and polyketides" & MAG == "Pedobacter sp.")
+terp_polaro <- subset(kegg, Subtype == "Metabolism of terpenoids and polyketides" & MAG == "Polaromonas sp.")
+
+nucleo_l1 <- subset(kegg, Subtype == "Nucleotide metabolism" & MAG == "Limnohabitans sp. 1")
+nucleo_l2 <- subset(kegg, Subtype == "Nucleotide metabolism" & MAG == "Limnohabitans sp. 2")
+nucleo_burk <- subset(kegg, Subtype == "Nucleotide metabolism" & MAG == "Unknown Burkholderiaceae")
+nucleo_pedo <- subset(kegg, Subtype == "Nucleotide metabolism" & MAG == "Pedobacter sp.")
+nucleo_polaro <- subset(kegg, Subtype == "Nucleotide metabolism" & MAG == "Polaromonas sp.")
+
+xeno_l1 <- subset(kegg, Subtype == "Xenobiotics biodegradation and metabolism" & MAG == "Limnohabitans sp. 1")
+xeno_l2 <- subset(kegg, Subtype == "Xenobiotics biodegradation and metabolism" & MAG == "Limnohabitans sp. 2")
+xeno_burk <- subset(kegg, Subtype == "Xenobiotics biodegradation and metabolism" & MAG == "Unknown Burkholderiaceae")
+xeno_pedo <- subset(kegg, Subtype == "Xenobiotics biodegradation and metabolism" & MAG == "Pedobacter sp.")
+xeno_polaro <- subset(kegg, Subtype == "Xenobiotics biodegradation and metabolism" & MAG == "Polaromonas sp.")
+
+env_l1 <- subset(kegg, Type == "Environmental information processing" & MAG == "Limnohabitans sp. 1")
+env_l2 <- subset(kegg, Type == "Environmental information processing" & MAG == "Limnohabitans sp. 2")
+env_burk <- subset(kegg, Type == "Environmental information processing" & MAG == "Unknown Burkholderiaceae")
+env_pedo <- subset(kegg, Type == "Environmental information processing" & MAG == "Pedobacter sp.")
+env_polaro <- subset(kegg, Type == "Environmental information processing" & MAG == "Polaromonas sp.")
+
+gene_l1 <- subset(kegg, Type == "Genetic information processing" & MAG == "Limnohabitans sp. 1")
+gene_l2 <- subset(kegg, Type == "Genetic information processing" & MAG == "Limnohabitans sp. 2")
+gene_burk <- subset(kegg, Type == "Genetic information processing" & MAG == "Unknown Burkholderiaceae")
+gene_pedo <- subset(kegg, Type == "Genetic information processing" & MAG == "Pedobacter sp.")
+gene_polaro <- subset(kegg, Type == "Genetic information processing" & MAG == "Polaromonas sp.")
+
+cell_l1 <- subset(kegg, Type == "Cellular processes" & MAG == "Limnohabitans sp. 1")
+cell_l2 <- subset(kegg, Type == "Cellular processes" & MAG == "Limnohabitans sp. 2")
+cell_burk <- subset(kegg, Type == "Cellular processes" & MAG == "Unknown Burkholderiaceae")
+cell_pedo <- subset(kegg, Type == "Cellular processes" & MAG == "Pedobacter sp.")
+cell_polaro <- subset(kegg, Type == "Cellular processes" & MAG == "Polaromonas sp.")
+
+org_l1 <- subset(kegg, Type == "Organismal systems" & MAG == "Limnohabitans sp. 1")
+org_l2 <- subset(kegg, Type == "Organismal systems" & MAG == "Limnohabitans sp. 2")
+org_burk <- subset(kegg, Type == "Organismal systems" & MAG == "Unknown Burkholderiaceae")
+org_pedo <- subset(kegg, Type == "Organismal systems" & MAG == "Pedobacter sp.")
+org_polaro <- subset(kegg, Type == "Organismal systems" & MAG == "Polaromonas sp.")
+
+resistance_l1 <- subset(kegg, Type == "Human diseases" & MAG == "Limnohabitans sp. 1")
+resistance_l2 <- subset(kegg, Type == "Human diseases" & MAG == "Limnohabitans sp. 2")
+resistance_burk <- subset(kegg, Type == "Human diseases" & MAG == "Unknown Burkholderiaceae")
+resistance_pedo <- subset(kegg, Type == "Human diseases" & MAG == "Pedobacter sp.")
+resistance_polaro <- subset(kegg, Type == "Human diseases" & MAG == "Polaromonas sp.")
+
+
+df.list <- list(amino_l1, amino_l2, amino_burk, amino_pedo, amino_polaro,
+                secondary_l1, secondary_l2, secondary_burk, secondary_pedo, secondary_polaro,
+                carb_l1, carb_l2, carb_burk, carb_pedo, carb_polaro,
+                energy_l1, energy_l2, energy_burk, energy_pedo, energy_polaro,
+                glycan_l1, glycan_l2, glycan_burk, glycan_pedo, glycan_polaro,
+                lipid_l1, lipid_l2, lipid_burk, lipid_pedo, lipid_polaro,
+                vitamin_l1, vitamin_l2, vitamin_burk, vitamin_pedo, vitamin_polaro,
+                terp_l1, terp_l2, terp_burk, terp_pedo, terp_polaro,
+                nucleo_l1, nucleo_l2, nucleo_burk, nucleo_pedo, nucleo_polaro,
+                xeno_l1, xeno_l2, xeno_burk, xeno_pedo, xeno_polaro,
+                env_l1, env_l2, env_burk, env_pedo, env_polaro,
+                gene_l1, gene_l2, gene_burk, gene_pedo, gene_polaro,
+                cell_l1, cell_l2, cell_burk, cell_pedo, cell_polaro,
+                org_l1, org_l2, org_burk, org_pedo, org_polaro,
+                resistance_l1, resistance_l2, resistance_burk, resistance_pedo, resistance_polaro) 
+
+# Heatmap of genes in global metabolic pathways
+total_pathway_genes <- lapply(df.list, function(x) sum(x$num_genes))
+species <- rep(c("Limnohabitans sp. 1", "Limnohabitans sp. 2", "Unknown Burkholderiaceae", "Pedobacter sp.", "Polaromonas sp."), 15)
+pathway <- rep(c("Amino acid metabolism", "Biosynthesis of other secondary metabolites",
+                 "Carbohydrate metabolism", "Energy metabolism",
+                 "Glycan biosynthesis and metabolism", "Lipid metabolism",
+                 "Metabolism of cofactors and vitamins", "Metabolism of terpenoids and polyketides",
+                 "Nucleotide metabolism", "Xenobiotics biodegradation and metabolism",
+                 "Environmental information processing", "Genetic information processing",
+                 "Cellular processes", "Organismal systems", "Resistance"),each = 5)
+
+global_genes <- data.frame(unlist(total_pathway_genes))
+global_genes$species <- species
+global_genes$pathway <- pathway
+colnames(global_genes) <- c("num_genes", "species", "pathway")
+
+global <- ggplot(global_genes, aes(species, fct_rev(pathway), fill = num_genes)) +
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1)) 
+global + theme(axis.title.y = element_blank()) + ggtitle("Major pathways")
+```
+
+```{r}
+# Splitting out into species, calculating gene proportions, merging, then heatmapping
+l1 <- subset(global_genes, species == "Limnohabitans sp. 1") %>% 
+  mutate(proportion = num_genes/sum(num_genes))
+l2 <- subset(global_genes, species == "Limnohabitans sp. 2") %>% 
+  mutate(proportion = num_genes/sum(num_genes))
+burk <- subset(global_genes, species == "Unknown Burkholderiaceae") %>% 
+  mutate(proportion = num_genes/sum(num_genes))
+pedo <- subset(global_genes, species == "Pedobacter sp.") %>% 
+  mutate(proportion = num_genes/sum(num_genes))
+polaro <- subset(global_genes, species == "Polaromonas sp.") %>% 
+  mutate(proportion = num_genes/sum(num_genes))
+
+global_proportions <- bind_rows(l1,l2,burk,pedo,polaro)
+global <- ggplot(global_proportions, aes(species, fct_rev(pathway), fill = proportion)) +
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1)) 
+global + theme(axis.title.y = element_blank()) + ggtitle("Major pathways")
+```
+
+```{r}
+trimmed_kegg <-kegg[!(kegg$Pathway=="Biosynthesis of antibiotics"),]
+trimmed_kegg <- trimmed_kegg[!(trimmed_kegg$Pathway=="Biosynthesis of amino acids"),]
+trimmed_kegg <- na.omit(trimmed_kegg)
+all <- ggplot(trimmed_kegg, aes(MAG, fct_rev(Pathway), fill = num_genes)) +
+  geom_tile() + 
+  scale_fill_gradient(name = "", low = "#ffffff",high = "#2171b5") + theme_classic() + theme(axis.title.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.x = element_text(angle = 45, hjust = 1)) 
+all + theme(axis.title.y = element_blank(), axis.text.y = element_text(size=3), axis.ticks.y=element_blank())
+```
+
